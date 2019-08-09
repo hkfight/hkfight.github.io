@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -7,6 +6,7 @@
   <script>document.getElementsByTagName("html")[0].className += " js";</script>
   <link rel="stylesheet" href="assets/css/style.css">
   <style>
+.markdown-body > h1 { display: none; }
 .hidden { display: block; display: none; }
 .btn { transition: all 0.5s; }
 .more { transform:rotate(-180deg); }
