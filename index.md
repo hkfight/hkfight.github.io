@@ -84,11 +84,11 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>有人喺休憩處、渠附近被打</h2>
-          <p class="color-contrast-medium">Now新聞</p>
+          <h2>響應不合作運動發起包圍警總，癱瘓政府大樓工作</h2>
+          <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">9:50pm</span>
+            <span class="cd-timeline__date">6月中旬</span>
             <a href="#0" class="btn btn--subtle">Read more</a>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -100,11 +100,11 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>有人喺月台聽到兩個白衫WhatsApp同人講「班人唔敢出黎，匿埋咗喺月台」</h2>
-          <p class="color-contrast-medium">民間社福界資訊地球post</p>
+          <h2>全球登報讓世界看見反送中訴求</h2>
+          <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">10:33pm</span>
+            <span class="cd-timeline__date">26/6</span>
             <a href="#0" class="btn btn--subtle">Read more</a>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -116,11 +116,11 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>Final Section</h2>
-          <p class="color-contrast-medium">This is the content of the last section</p>
+          <h2>包圍律政中心</h2>
+          <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Feb 26</span>
+            <span class="cd-timeline__date">27/6</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
