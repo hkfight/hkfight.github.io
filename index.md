@@ -17,12 +17,14 @@ function openMore(el) {
 	$(el).parent().next().slideToggle();
 }
   </script>
-  <title>Responsive Vertical Timeline | CodyHouse</title>
+  <title>香港人抗爭時序</title>
 </head>
 <body>
 	<header class="cd-main-header text-center flex flex-column flex-center">
-    <h1>Responsive Vertical Timeline</h1>
-    <p class="margin-top-sm">👈<a class="color-inherit" href="https://docs.google.com/forms/d/e/1FAIpQLScUQGrfgleucQU70fvNvY9KhLyt54wG6Y1awdkLK-c2FVbuSA/viewform">form</a></p>
+    <h1>香港人抗爭時序</h1>
+    <p class="margin-top-sm">2019年3月政府借陳同佳案為由，硬推《逃犯條例修訂》</p>
+    <p class="margin-top-sm">多名手足被政權推下來，冷血政府卻漠視人命，至今仍然沒有回應。</p>
+    <p class="margin-top-sm">整場社運被警方拘捕義士多達500人。</p>
   </header>
 
   <section class="cd-timeline js-cd-timeline">
@@ -33,11 +35,11 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>白衫人喺天橋底嗰鳳攸北街休憩處聚集</h2>
-          <p class="color-contrast-medium">盡在元朗live</p>
+          <h2>103萬人上街遊行</h2>
+          <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">8:49pm</span>
+            <span class="cd-timeline__date">9/6</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden">[img]</div>
@@ -50,11 +52,11 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>元朗站中間5-6個白衫阿伯在閘外，有人講「係咪返上水？」</h2>
-          <p class="color-contrast-medium">網友提供照片</p>
+          <h2>政府漠視百萬人聲音，原訂照常二讀<br/>市民發動「三罷」，遭警方武力清場，林鄭稱示威者「暴動」</h2>
+          <p class="color-contrast-medium"></p>
           
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">9:09pm</span>
+            <span class="cd-timeline__date">12/6</span>
             <a href="#0" class="btn btn--subtle">Read more</a>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -66,11 +68,11 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>有人喺休憩處被打</h2>
-          <p class="color-contrast-medium">有線新聞</p>
+          <h2>200萬+1人上街遊行</h2>
+          <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">9:20pm</span>
+            <span class="cd-timeline__date">16/6</span>
             <a href="#0" class="btn btn--subtle">Read more</a>
           </div>
         </div> <!-- cd-timeline__content -->
