@@ -59,7 +59,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-          <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/62140780_10218280052010421_2335660192600948736_o_BoRwt_1200x0.png" width="100%" />立場新聞</p>
+            <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/62140780_10218280052010421_2335660192600948736_o_BoRwt_1200x0.png" width="100%" />版權：立場新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -78,8 +78,9 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-          <p class="color-contrast-medium"><img src="https://cdn-images-1.medium.com/max/2600/1*p7P8EhOrWIIfS1GyLtMr9w.jpeg" width="100%" /></p>
-          <p class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen></iframe>自由亞洲</p>
+            <p class="color-contrast-medium"><img src="https://cdn-images-1.medium.com/max/2600/1*p7P8EhOrWIIfS1GyLtMr9w.jpeg" width="100%" /></p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：自由亞洲</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -98,7 +99,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-          <p class="color-contrast-medium"><img src="https://images.chinatimes.com/newsphoto/2019-06-16/900/20190616002654.jpg" width="100%" />中時電子報</p>
+            <p class="color-contrast-medium"><img src="https://images.chinatimes.com/newsphoto/2019-06-16/900/20190616002654.jpg" width="100%" />版權：中時電子報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -113,8 +114,12 @@ function openMore(el) {
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年6月中旬</span>
+            <span class="cd-timeline__date">2019年6月21日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/64927719_10217521872831124_2840292865328807936_o_4E9TE_1200x0.png" width="100%" />版權：立場新聞</p>
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2939727/org/7a8da4ddf2c142f628ace73490f25599.jpeg/a4sqe9sn4qNMWNS3nv0PDUxTKsI66jE1zEC_U8xAv1M?v=w1280r16_9" width="100%" />版權：香港01</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -132,6 +137,9 @@ function openMore(el) {
             <span class="cd-timeline__date">2019年6月26日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://pbs.twimg.com/media/D-J1bVlUIAAncgb.jpg" width="100%" /></p>
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -146,6 +154,10 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月27日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/65300435_176444883367097_7595287421040059584_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&se=8&oh=2237366de95893a6acaf0c91cc3df19f&oe=5E11E4E3&ig_cache_key=MjA3NTI3OTIzNzgwNTIzNTkyNA%3D%3D.2" width="100%" />版權：蘋果日報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
