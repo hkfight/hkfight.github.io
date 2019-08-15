@@ -35,8 +35,8 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>103萬人上街遊行</h2>
-          <p class="color-contrast-medium"></p>
+          <h2></h2>
+          <p class="color-contrast-medium">103萬人上街遊行</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月9日</span>
