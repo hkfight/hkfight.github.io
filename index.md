@@ -73,7 +73,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月16日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -89,7 +89,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月中旬</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -105,7 +105,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月26日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -136,7 +136,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月1日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -152,7 +152,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月5日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -168,7 +168,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月6日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -184,7 +184,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月7日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -200,7 +200,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月13日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -216,7 +216,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月14日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -232,7 +232,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月17日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -248,7 +248,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月21日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -264,7 +264,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月27日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -280,7 +280,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月28日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -296,7 +296,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月30日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -312,7 +312,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月31日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -328,7 +328,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月3日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -344,7 +344,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月4日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -360,7 +360,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月5日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -376,7 +376,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月6日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -392,7 +392,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月7日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -408,7 +408,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月9-11日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -424,7 +424,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月10日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -440,7 +440,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月11日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -456,7 +456,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月4日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -472,7 +472,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月12日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -488,7 +488,7 @@ function openMore(el) {
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月13日</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
