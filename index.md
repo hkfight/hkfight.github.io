@@ -79,7 +79,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
           <p class="color-contrast-medium"><img src="https://cdn-images-1.medium.com/max/2600/1*p7P8EhOrWIIfS1GyLtMr9w.jpeg" width="100%" /></p>
-          <p class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen</iframe</p>
+          <p class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen></iframe></p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
