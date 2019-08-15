@@ -175,6 +175,11 @@ function openMore(el) {
             <span class="cd-timeline__date">2019年7月1日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+            <div class="video-container"><iframe width="560" height="315" src="https://videop.mingpao.com/php/player1.php?file=http://video3.mingpao.com/inews/201907/20190701_protesttimelapse3.mp4&portal=webnews2&adv=ad001" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：明報</p>
+            <p class="color-contrast-medium"><img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2019/07/f41c1f56f8644f11bdb4b94678a7705d.JPG" width="100%" />版權：端傳媒</p>
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -190,6 +195,11 @@ function openMore(el) {
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月5日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://static02-proxy.hket.com/res/v3/image/content/2375000/2377143/af43bc18-5c7a-4c37-98b9-438a3245c621_1024.jpg" width="100%" />版權：經濟日報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/wnRTUuU81m0" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：蘋果日報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
