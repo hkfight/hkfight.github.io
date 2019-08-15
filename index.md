@@ -10,6 +10,22 @@
 .hidden { display: block; display: none; }
 .btn { transition: all 0.5s; }
 .more { transform:rotate(-180deg); }
+
+.video-container {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 30px; height: 0; overflow: hidden;
+}
+
+.video-container iframe,
+.video-container object,
+.video-container embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
   </style>
   <script>
 function openMore(el) {
@@ -42,7 +58,9 @@ function openMore(el) {
             <span class="cd-timeline__date">2019年6月9日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
-          <div class="hidden">[img]</div>
+          <div class="hidden"><p></p>
+          <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/62140780_10218280052010421_2335660192600948736_o_BoRwt_1200x0.png" width="100%" />立場新聞</p>
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -58,6 +76,10 @@ function openMore(el) {
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月12日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+          <p class="color-contrast-medium"><img src="https://cdn-images-1.medium.com/max/2600/1*p7P8EhOrWIIfS1GyLtMr9w.jpeg" width="100%" /></p>
+          <p class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen</iframe</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
