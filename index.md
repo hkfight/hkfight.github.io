@@ -52,7 +52,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>政府漠視百萬人聲音，原訂照常二讀<br/>市民發動「三罷」，遭警方武力清場，林鄭稱示威者「暴動」</h2>
+          <h2>政府漠視百萬人聲音，原訂照常二讀<br/><br/>市民發動「三罷」，遭警方武力清場，林鄭稱示威者「暴動」</h2>
           <p class="color-contrast-medium"></p>
           
           <div class="flex justify-between items-center">
@@ -84,7 +84,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>響應不合作運動發起包圍警總，癱瘓政府大樓工作</h2>
+          <h2>響應不合作運動<br/>發起包圍警總，癱瘓政府大樓工作</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
@@ -211,7 +211,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>沙田區大遊行完結前，警民於源和路外對峙。<br/>另一邊廂警方精心佈局，蓄意封鎖沙田港鐵站，四面包圍新城市廣場，與抗爭者亂戰。<br/>於不反對通知書仍生效時，警方在無合理懷疑下，於大會堂外拘捕33名年青人，並以非法集結等其他罪名，扣留男人三十多小時或以上。</h2>
+          <h2>沙田區大遊行完結前，警民於源和路外對峙。<br/><br/>另一邊廂警方精心佈局，蓄意封鎖沙田港鐵站，四面包圍新城市廣場，與抗爭者亂戰。<br/><br/>於不反對通知書仍生效時，警方在無合理懷疑下，於大會堂外拘捕33名年青人，並以非法集結等其他罪名，扣留男人三十多小時或以上。</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
@@ -227,7 +227,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>銀髮族遊行，香港首次以長者為主導的遊行。<br/>逾九千名長者站出來，以愛與溫柔，為年輕抗爭者發聲。</h2>
+          <h2>銀髮族遊行，香港首次以長者為主導的遊行。<br/><br/>逾九千名長者站出來，以愛與溫柔，為年輕抗爭者發聲。</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
@@ -243,7 +243,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>港島區遊行結束後，抗爭者自發前往西環中聯辦外。警方共使用55枚催淚彈及多致子弹過度武力清場。<br/>元郎西鐵站：聚集百多名白衣人向途人進行「無差別」襲擊，市民頭破血流。<br/>鄰近所有警署拉閘，報警時更無人接聽。事發39分鐘後才抵達現場，並有片段證官警黑勾結。<br/>香港出現了最黑暗的：無管治時段。</h2>
+          <h2>港島區遊行結束後，抗爭者自發前往西環中聯辦外。警方共使用55枚催淚彈及多致子弹過度武力清場。<br/><br/>元郎西鐵站：聚集百多名白衣人向途人進行「無差別」襲擊，市民頭破血流。<br/><br/>鄰近所有警署拉閘，報警時更無人接聽。事發39分鐘後才抵達現場，並有片段證官警黑勾結。<br/><br/>香港出現了最黑暗的：無管治時段。</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
@@ -275,7 +275,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>遮打和平集會期間，市民兵分幾路至港島東西各地聚集。<br/>市民繼續表達訴求，以光復香港，時代革命為己任。<br/>入黑後警察「越戰越勇」情緒亢奮。施放更多催淚彈及使用更大武力，甚至濫用私刑去對市民拳打腳踢。<br/>這個晚上，共拘捕了49名義士，44人更被控方以暴動罪名起訴。</h2>
+          <h2>遮打和平集會期間，市民兵分幾路至港島東西各地聚集。<br/><br/>市民繼續表達訴求，以光復香港，時代革命為己任。<br/><br/>入黑後警察「越戰越勇」情緒亢奮。施放更多催淚彈及使用更大武力，甚至濫用私刑去對市民拳打腳踢。<br/><br/>這個晚上，共拘捕了49名義士，44人更被控方以暴動罪名起訴。</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
