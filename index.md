@@ -79,7 +79,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
           <p class="color-contrast-medium"><img src="https://cdn-images-1.medium.com/max/2600/1*p7P8EhOrWIIfS1GyLtMr9w.jpeg" width="100%" /></p>
-          <p class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen></iframe></p>
+          <p class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen></iframe>自由亞洲</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -96,6 +96,9 @@ function openMore(el) {
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月16日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+          <p class="color-contrast-medium"><img src="https://images.chinatimes.com/newsphoto/2019-06-16/900/20190616002654.jpg" width="100%" />中時電子報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
