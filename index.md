@@ -146,7 +146,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>200萬+1人上街遊行</h2>
+          <h2>200萬+1人反送中大遊行</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
