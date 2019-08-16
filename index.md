@@ -274,12 +274,17 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>銀髮族遊行，香港首次以長者為主導的遊行。<br/><br/>逾九千名長者站出來，以愛與溫柔，為年輕抗爭者發聲。</h2>
+          <h2>銀髮族遊行，香港首次以長者為主導的遊行。逾九千名長者站出來，以愛與溫柔，為年輕抗爭者發聲。</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月17日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://s.yimg.com/ny/api/res/1.2/VcScbDlsMwA12n6ylr5p.w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/zh-TW/thesun.hk.com/cd5a3cbe24052e2461430bb7fd37108e" width="100%" />版權：東方日報</p>
+	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/inmediahk/videos/%25E7%258D%25A8%25E5%25AA%2592%25E7%259B%25B4%25E6%2592%25AD717-%25E9%25A6%2599%25E6%25B8%25AF%25E9%258A%2580%25E9%25AB%25AE%25E6%2597%258F%25E9%259D%259C%25E9%25BB%2598%25E9%2581%258A%25E8%25A1%258C/364932304196001/" data-iframely-url="//cdn.iframe.ly/Tj3MiKp?media=1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+            <p class="color-contrast-medium">版權：獨立媒體</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
