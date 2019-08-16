@@ -134,7 +134,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/CA4C/production/_107388715_gettyimages-1150148083_01.jpg" width="100%" />版權：Getty Images</p>
-            <div class="video-container"><video><source src="http://video.news.gov.hk:8080/vod/VIDEO/chi/2019/06/20190615/20190615_151123_795/videos/20190615185901621.mp4" /></video></div>
+            <div class="video-container"><video controls><source src="https://video.news.gov.hk:8080/vod/VIDEO/chi/2019/06/20190615/20190615_151123_795/videos/20190615185901621.mp4" /></video></div>
             <p class="color-contrast-medium">版權：政府新聞網</p>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -235,7 +235,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <div class="video-container"><iframe width="560" height="315" src="https://videop.mingpao.com/php/player1.php?file=http://video3.mingpao.com/inews/201907/20190701_protesttimelapse3.mp4&portal=webnews2&adv=ad001" frameborder="0" allowfullscreen></iframe></div>
+            <div class="video-container"><iframe width="560" height="315" src="https://videop.mingpao.com/php/player1.php?file=https://video3.mingpao.com/inews/201907/20190701_protesttimelapse3.mp4&portal=webnews2&adv=ad001" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：明報</p>
             <p class="color-contrast-medium"><img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2019/07/f41c1f56f8644f11bdb4b94678a7705d.JPG" width="100%" />版權：端傳媒</p>
           </div>
@@ -321,7 +321,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="http://static.stheadline.com/stheadline/inewsmedia/20190713/_2019071316444511250.jpg" width="100%" />版權：星島日報</p>
+            <p class="color-contrast-medium"><img src="https://static.stheadline.com/stheadline/inewsmedia/20190713/_2019071316444511250.jpg" width="100%" />版權：星島日報</p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/9_lkg8mKWeQ" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：自由亞洲</p>
           </div>
