@@ -471,7 +471,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>原定「光復黃大仙」及大埔遊行遭警方反對。<br/><br/>市民如常遊行，其後於大圍、沙田、觀塘、尖沙咀、紅磡等，多地快閃堵路。<br/><br/>警方於多區無目標地施放多枚催淚彈，並拘捕無裝備女途人，控共襲警。</h2>
+          <h2>銀髮族早上再辦「萬歲籲警　放下屠刀」活動，前往警察總部、特首辦及律政司司長辦公室遞信。<br/><br/>有市民發起「守護孩子未來」親子集會，由愛丁堡廣場遊行到政府總部，傳達五大訴求。<br/><br/>原定「光復黃大仙」及大埔遊行遭警方反對。<br/><br/>市民如常遊行，其後於大圍、沙田、觀塘、尖沙咀、紅磡等，多地快閃堵路。<br/><br/>警方於多區無目標地施放多枚催淚彈，並拘捕無裝備女途人，控共襲警。</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
