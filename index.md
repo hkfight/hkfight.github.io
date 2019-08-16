@@ -220,44 +220,6 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>失去義士</h2>
-          <p class="color-contrast-medium">教大21歲女生於梯間牆身留反修例字句墮樓亡</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年6月29日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
-          </div>
-          <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="https://d2e7nuz2r6mjca.cloudfront.net/2019/6/1561812764_mf-1280w.jpg" width="100%" />版權：am730</p>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>失去義士</h2>
-          <p class="color-contrast-medium">29歲女子IFC天橋跳樓亡，fb遺言寫道「香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天…累了，不想再為明天努力…」</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年6月30日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
-          </div>
-          <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="https://d2e7nuz2r6mjca.cloudfront.net/2019/6/1561812764_mf-1280w.jpg" width="100%" />版權：am730</p>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
           <h2>包圍律政中心</h2>
           <p class="color-contrast-medium"></p>
 
@@ -279,7 +241,37 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>七一大遊行，市民反抗暴政，佔領立法會，爭取雙真普選</h2>
+          <h2>失去義士</h2>
+          <p class="color-contrast-medium">教大21歲女生於梯間牆身留反修例字句墮樓亡</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月29日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://d2e7nuz2r6mjca.cloudfront.net/2019/6/1561812764_mf-1280w.jpg" width="100%" />版權：am730</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>失去義士</h2>
+          <p class="color-contrast-medium">29歲女子IFC天橋跳樓亡，Facebook遺言寫道「香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天…累了，不想再為明天努力…」</p>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>七一大遊行</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
@@ -300,6 +292,46 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2019/07/f41c1f56f8644f11bdb4b94678a7705d.JPG" width="100%" />版權：端傳媒</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>4時</h2>
+          <p class="color-contrast-medium">林鄭月娥聯同政務司司長張建宗、保安局局長李家超及警務處處長盧偉聰，深夜四時於灣仔警察總部警政大樓三樓大堂會見傳媒。</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月2日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2979847/org/c7488a7f92afb1efda650749e3ed9130.jpg/owxE1t0b1YIQYWJvlV7UA41vQiUpjqjBtDR1A540dQM" width="100%" />版權：HK01</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6JznM5t6ylY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：眾新聞</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>失去義士</h2>
+          <p class="color-contrast-medium">28歲女子長沙灣青山道一幢大廈天台墮樓死亡</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月3日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://tnimage.s3.hicloud.net.tw/photos/2019/07/05/1562294650-5d1eb97a4e6d1.jpg" width="100%" />來源：鍾祖康Facebook）</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
