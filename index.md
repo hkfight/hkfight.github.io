@@ -233,6 +233,11 @@ function openMore(el) {
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
         <div class="cd-timeline__content text-component">
           <h2>失去義士</h2>
           <p class="color-contrast-medium">29歲女子IFC天橋跳樓亡，fb遺言寫道「香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天…累了，不想再為明天努力…」</p>
