@@ -302,7 +302,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>4時</h2>
+          <h2>林鄭深夜四時開記招</h2>
           <p class="color-contrast-medium">林鄭月娥聯同政務司司長張建宗、保安局局長李家超及警務處處長盧偉聰，深夜四時於灣仔警察總部警政大樓三樓大堂會見傳媒。</p>
 
           <div class="flex justify-between items-center">
@@ -364,7 +364,7 @@ function openMore(el) {
 
         <div class="cd-timeline__content text-component">
           <h2>光復屯門</h2>
-          <p class="color-contrast-medium"></p>
+          <p class="color-contrast-medium">數大名警員護送一位大媽離開</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月6日</span>
