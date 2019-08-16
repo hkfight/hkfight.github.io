@@ -261,6 +261,11 @@ function openMore(el) {
             <span class="cd-timeline__date">2019年7月13日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="http://static.stheadline.com/stheadline/inewsmedia/20190713/_2019071316444511250.jpg" width="100%" />版權：星島日報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/9_lkg8mKWeQ" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：自由亞洲</p>
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -276,6 +281,13 @@ function openMore(el) {
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月14日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://i.lihkg.com/540/https://na.cx/i/c5Nu8FS.png" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2019/07/3054d7dedc144efc8bc14c3563a30706.jpg?imageView2/1/w/1080/h/720/format/jpg" width="100%" />版權：端傳媒</p>
+            <p class="color-contrast-medium"><img src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/07/15/4/6566058.jpg&x=0&y=0&sw=0&sh=0&exp=3600" width="100%" />版權：路透社</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/_mCHZ8F7JTU" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：壹電視</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -313,6 +325,16 @@ function openMore(el) {
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月21日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190721/s00001/c40297eef128cbb1ee786cad02e9fa42.jpg" width="100%" />版權：明報</p>
+            <p class="color-contrast-medium"><img src="https://obs.line-scdn.net/0hvbtWL56KKU1JLgIeI-tWGnB4KiJ6QjpOLRh4UhZAd3kxHGscc0BleGV6InUwGW4TIEtlK2xrdi1iH2dPfEs/w644" width="100%" />版權：星島日報</p>
+            <p class="color-contrast-medium"><img src="https://www.metrodaily.hk/wp-content/uploads/2019/08/2019-08-14_01-24-17.jpg" width="100%" />版權：都市日報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/CQSVxbFlje8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：新唐人電視臺</p>
+            <p class="color-contrast-medium"><img src="https://i.imgur.com/gg7f4H0.jpg" width="100%" /></p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/R9pygJmqa24" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：Now 新聞、有線新聞、香港電台新聞部、立場新聞、蘋果日報、無綫新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
