@@ -51,8 +51,8 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>103萬人上街遊行</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>103萬人反送中大遊行</h2>
+          <p class="color-contrast-medium">當晚政府宣佈逃犯條例修訂二讀如期舉行</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月9日</span>
@@ -72,8 +72,8 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>政府漠視百萬人聲音，原訂照常二讀<br/><br/>市民發動「三罷」，遭警方武力清場，林鄭稱示威者「暴動」</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>市民發動「三罷」</h2>
+          <p class="color-contrast-medium">警方武力清場，林鄭稱示威者「暴動」</p>
           
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月12日</span>
@@ -83,6 +83,59 @@ function openMore(el) {
             <p class="color-contrast-medium"><img src="https://cdn-images-1.medium.com/max/2600/1*p7P8EhOrWIIfS1GyLtMr9w.jpeg" width="100%" /></p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/X94HBjytqCQ" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：自由亞洲</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>失去義士</h2>
+          <p class="color-contrast-medium"></p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月14日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://cdn.dimsumdaily.hk/wp-content/uploads/2019/06/19072055/Screenshot-2019-06-16-at-11.23.14-AM-877x1024.png" width="100%" /></p>
+          </div>
+
+          <h2>香港媽媽反送中集氣大會</h2>
+          <p class="color-contrast-medium"></p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月14日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://static02-proxy.hket.com/res/v3/image/content/2375000/2377143/af43bc18-5c7a-4c37-98b9-438a3245c621_1024.jpg" width="100%" />版權：經濟日報</p>
+	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/hkcnews/videos/%E5%8D%B3%E6%99%82%E9%A6%99%E6%B8%AF%E5%AA%BD%E5%AA%BD%E5%8F%8D%E9%80%81%E4%B8%AD%E9%9B%86%E6%B0%A3%E5%A4%A7%E6%9C%83-%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%92%AD%E5%91%A8%E4%B8%89%E5%92%8C%E5%B9%B3%E7%A4%BA%E5%A8%81%E6%9C%9F%E9%96%93%E8%AD%A6%E6%96%B9%E4%BB%A5%E4%B8%8D%E5%B0%8D%E7%AD%89%E6%AD%A6%E5%8A%9B%E9%8E%AE%E5%A3%93%E7%A4%BA%E5%A8%81%E8%80%85%E6%9E%97%E9%84%AD%E4%BB%A5%E6%AF%8D%E8%A6%AA%E8%87%AA%E6%AF%94%E5%BD%A2%E5%AE%B9%E7%A4%BA%E5%A8%81%E8%80%85%E6%98%AF%E4%BB%BB%E6%80%A7%E7%9A%84%E5%AD%90%E5%A5%B3%E4%B8%80%E7%BE%A4%E8%BA%AB%E5%85%BC%E6%AF%8D%E8%A6%AA%E7%9A%84%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%AD%B8%E8%80%85%E7%A4%BE%E5%B7%A5%E7%AD%89%E7%99%BC%E8%B5%B7%E8%81%AF%E7%BD%B2%E7%9F%AD%E7%9F%AD16/316239522642866/" data-iframely-url="//cdn.iframe.ly/lfsrUDi?media=1"></a></div></div>
+            <p class="color-contrast-medium">版權：眾新聞</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>政府宣佈暫緩修例</h2>
+          <p class="color-contrast-medium">立法會議事規則內沒有「暫緩」這回事，只有「押後」(postpone)或「撤回」(withdraw)</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月15日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/CA4C/production/_107388715_gettyimages-1150148083_01.jpg" width="100%" />版權：Getty Images</p>
+            <div class="video-container"><iframe width="400" height="500" frameborder="0" src="https://www.bbc.com/zhongwen/trad/chinese-news-48645758/embed"></iframe></div>
+            <p class="color-contrast-medium">版權：BBC</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -203,7 +256,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="https://static02-proxy.hket.com/res/v3/image/content/2375000/2377143/af43bc18-5c7a-4c37-98b9-438a3245c621_1024.jpg" width="100%" />版權：經濟日報</p>
+            <p class="color-contrast-medium"><img src="" width="100%" />版權：經濟日報</p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/wnRTUuU81m0" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：蘋果日報</p>
           </div>
