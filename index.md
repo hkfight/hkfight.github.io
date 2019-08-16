@@ -217,6 +217,12 @@ function openMore(el) {
             <span class="cd-timeline__date">2019年7月6日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://i.lihkg.com/540/https://na.cx/i/UYUvYCP.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/pns/20190707/s00006/d4d0b457d9527ad17fb78bbbf5f3aa8d.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/MqxmnuWeSjU" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：蘋果日報</p>
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -232,6 +238,12 @@ function openMore(el) {
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月7日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://gogetfunding.com/wp-content/uploads/2019/07/6185505/img/6wqrRB1.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/07/77%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%A4%A7%E9%81%8A%E8%A1%8C-%E5%8F%8D%E9%80%81%E4%B8%AD-20190708010515_2ab0_large.jpg" width="100%" />版權：美聯社</p>
+	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/hk01.news/videos/77%E4%B9%9D%E9%BE%8D%E5%A4%A7%E9%81%8A%E8%A1%8C-01%E7%9B%B4%E6%92%AD%E8%AD%A6%E6%96%B9%E4%B8%8D%E6%96%B7%E5%91%BC%E7%B1%B2%E9%81%8A%E8%A1%8C%E4%BA%BA%E5%A3%AB%E9%9B%A2%E9%96%8B%E5%85%A8%E6%96%87%E7%9B%B4%E6%92%ADhttpbitly2lc6xgs%E7%8F%BE%E5%A0%B4%E5%AF%A6%E6%B3%81%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E8%B3%87%E8%A8%8A%E8%AB%8B%E5%8D%B3follow%E9%A6%99%E6%B8%AF01-telegram%E7%8F%BE%E5%A0%B4%E6%9C%80%E6%96%B0%E6%83%85/464168021051194/" data-iframely-url="//cdn.iframe.ly/Tj3MiKp?media=1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+            <p class="color-contrast-medium">版權：香港01</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -477,6 +489,10 @@ function openMore(el) {
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月10日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：東方日報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
