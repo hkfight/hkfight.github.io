@@ -60,6 +60,8 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/62140780_10218280052010421_2335660192600948736_o_BoRwt_1200x0.png" width="100%" />版權：立場新聞</p>
+	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/standnewshk/videos/69-%25E5%25A4%25A7%25E9%2581%258A%25E8%25A1%258C%25E9%258A%2585%25E9%2591%25BC%25E7%2581%25A3%25E5%25A5%25A5%25E9%2581%258B%25E6%25A9%258B%25E7%258F%25BE%25E5%25A0%25B4%25E7%259B%25B4%25E6%2592%25AD%25E4%25B8%258D%25E6%2596%25B7%25E6%259B%25B4%25E6%2596%25B0%25E5%25A0%25B1%25E9%2581%2593httpbitly2wklb1w%25E6%25B0%2591%25E9%2596%2593%25E4%25BA%25BA%25E6%25AC%258A%25E9%2599%25A3%25E7%25B7%259A%25E4%25BB%258A%25E6%2597%25A59-%25E6%2597%25A5%25E7%2599%25BC%25E8%25B5%25B7%25E5%258F%258D%25E9%2580%2581%25E4%25B8%25AD%25E5%25A4%25A7%25E9%2581%258A%25E8%25A1%258C%25E5%258F%258D%25E5%25B0%258D%25E6%2594%25BF%25E5%25BA%259C%25E4%25BF%25AE%25E8%25A8%2582%25E9%2580%2583%25E7%258A%25AF%25E6%25A2%259D%25E4%25BE%258B%25E7%2594%25B1%25E6%2596%25BC%25E5%258F%2583%25E8%2588%2587%25E4%25BA%25BA%25E6%2595%25B8%25E7%259C%25BE%25E5%25A4%259A%25E6%25B0%2591%25E9%2599%25A3%25E5%25AE%25A3%25E5%25B8%2583%25E6%2587%2589/1352094858287814/" data-iframely-url="//cdn.iframe.ly/lfsrUDi?media=1"></a></div></div>
+            <p class="color-contrast-medium">版權：立場新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -100,6 +102,8 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://images.chinatimes.com/newsphoto/2019-06-16/900/20190616002654.jpg" width="100%" />版權：中時電子報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NtoUMgWf0Vs" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：台視新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -158,6 +162,8 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/65300435_176444883367097_7595287421040059584_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&se=8&oh=2237366de95893a6acaf0c91cc3df19f&oe=5E11E4E3&ig_cache_key=MjA3NTI3OTIzNzgwNTIzNTkyNA%3D%3D.2" width="100%" />版權：蘋果日報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/WpehzheXX1E" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：立場新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
