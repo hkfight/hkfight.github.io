@@ -177,11 +177,6 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
 
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-
         <div class="cd-timeline__content text-component">
           <h2>發起包圍警總、政府大樓</h2>
           <p class="color-contrast-medium">響應不合作運動</p>
