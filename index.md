@@ -242,7 +242,7 @@ function openMore(el) {
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://gogetfunding.com/wp-content/uploads/2019/07/6185505/img/6wqrRB1.jpg" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/07/77%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%A4%A7%E9%81%8A%E8%A1%8C-%E5%8F%8D%E9%80%81%E4%B8%AD-20190708010515_2ab0_large.jpg" width="100%" />版權：美聯社</p>
-	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/hk01.news/videos/77%E4%B9%9D%E9%BE%8D%E5%A4%A7%E9%81%8A%E8%A1%8C-01%E7%9B%B4%E6%92%AD%E8%AD%A6%E6%96%B9%E4%B8%8D%E6%96%B7%E5%91%BC%E7%B1%B2%E9%81%8A%E8%A1%8C%E4%BA%BA%E5%A3%AB%E9%9B%A2%E9%96%8B%E5%85%A8%E6%96%87%E7%9B%B4%E6%92%ADhttpbitly2lc6xgs%E7%8F%BE%E5%A0%B4%E5%AF%A6%E6%B3%81%E9%80%83%E7%8A%AF%E6%A2%9D%E4%BE%8B%E8%B3%87%E8%A8%8A%E8%AB%8B%E5%8D%B3follow%E9%A6%99%E6%B8%AF01-telegram%E7%8F%BE%E5%A0%B4%E6%9C%80%E6%96%B0%E6%83%85/464168021051194/" data-iframely-url="//cdn.iframe.ly/Tj3MiKp?media=1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/hk01.news/videos/77%25E4%25B9%259D%25E9%25BE%258D%25E5%25A4%25A7%25E9%2581%258A%25E8%25A1%258C-01%25E7%259B%25B4%25E6%2592%25AD%25E8%25AD%25A6%25E6%2596%25B9%25E4%25B8%258D%25E6%2596%25B7%25E5%2591%25BC%25E7%25B1%25B2%25E9%2581%258A%25E8%25A1%258C%25E4%25BA%25BA%25E5%25A3%25AB%25E9%259B%25A2%25E9%2596%258B%25E5%2585%25A8%25E6%2596%2587%25E7%259B%25B4%25E6%2592%25ADhttpbitly2lc6xgs%25E7%258F%25BE%25E5%25A0%25B4%25E5%25AF%25A6%25E6%25B3%2581%25E9%2580%2583%25E7%258A%25AF%25E6%25A2%259D%25E4%25BE%258B%25E8%25B3%2587%25E8%25A8%258A%25E8%25AB%258B%25E5%258D%25B3follow%25E9%25A6%2599%25E6%25B8%25AF01-telegram%25E7%258F%25BE%25E5%25A0%25B4%25E6%259C%2580%25E6%2596%25B0%25E6%2583%2585/464168021051194/" data-iframely-url="//cdn.iframe.ly/ngnMux2?media=1"></a></div></div>
             <p class="color-contrast-medium">版權：香港01</p>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -295,7 +295,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://s.yimg.com/ny/api/res/1.2/VcScbDlsMwA12n6ylr5p.w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/zh-TW/thesun.hk.com/cd5a3cbe24052e2461430bb7fd37108e" width="100%" />版權：東方日報</p>
-	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/inmediahk/videos/%25E7%258D%25A8%25E5%25AA%2592%25E7%259B%25B4%25E6%2592%25AD717-%25E9%25A6%2599%25E6%25B8%25AF%25E9%258A%2580%25E9%25AB%25AE%25E6%2597%258F%25E9%259D%259C%25E9%25BB%2598%25E9%2581%258A%25E8%25A1%258C/364932304196001/" data-iframely-url="//cdn.iframe.ly/Tj3MiKp?media=1"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/inmediahk/videos/%25E7%258D%25A8%25E5%25AA%2592%25E7%259B%25B4%25E6%2592%25AD717-%25E9%25A6%2599%25E6%25B8%25AF%25E9%258A%2580%25E9%25AB%25AE%25E6%2597%258F%25E9%259D%259C%25E9%25BB%2598%25E9%2581%258A%25E8%25A1%258C/364932304196001/" data-iframely-url="//cdn.iframe.ly/Tj3MiKp?media=1"></a></div></div>
             <p class="color-contrast-medium">版權：獨立媒體</p>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -564,5 +564,6 @@ function openMore(el) {
     </div>
   </section> <!-- cd-timeline -->
   <script src="assets/js/main.js"></script>
+<script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 </body>
 </html>
