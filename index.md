@@ -94,7 +94,7 @@ function openMore(el) {
 
         <div class="cd-timeline__content text-component">
           <h2>失去義士</h2>
-          <p class="color-contrast-medium"></p>
+          <p class="color-contrast-medium">反修例黃衣男太古廣場危站五小時墮地送院不治</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月14日</span>
@@ -158,6 +158,17 @@ function openMore(el) {
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NtoUMgWf0Vs" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：台視新聞</p>
           </div>
+
+          <h2>金鐘悼念義士</h2>
+          <p class="color-contrast-medium"></p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月16日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/64214987_10157448347773833_7084360495313977344_o.jpg?_nc_cat=108&_nc_oc=AQmPOQquYhW7qTBHG20zGyBVCs_FPjaPPi5qiJzH9fnQWfVszYiebqZ3oULVy29mNpI&_nc_ht=scontent.fhkg10-1.fna&oh=5cb30f9b7089535e267d0a64d78448b3&oe=5DDBA5F8" width="100%" />版權：公視新聞網</p>
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -166,9 +177,14 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
 
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
         <div class="cd-timeline__content text-component">
-          <h2>響應不合作運動<br/>發起包圍警總，癱瘓政府大樓工作</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>發起包圍警總、政府大樓</h2>
+          <p class="color-contrast-medium">響應不合作運動</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月21日</span>
@@ -178,6 +194,9 @@ function openMore(el) {
             <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/64927719_10217521872831124_2840292865328807936_o_4E9TE_1200x0.png" width="100%" />版權：立場新聞</p>
             <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2939727/org/7a8da4ddf2c142f628ace73490f25599.jpeg/a4sqe9sn4qNMWNS3nv0PDUxTKsI66jE1zEC_U8xAv1M?v=w1280r16_9" width="100%" />版權：香港01</p>
           </div>
+
+          <h2>政府稱已完全停止《逃犯條例》修例工作</h2>
+          <p class="color-contrast-medium">政府發言人指本屆立法會會期明年七月結束，條例草案屆時將自動失效。</p>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -187,8 +206,8 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>全球登報讓世界看見反送中訴求</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>G20 - 香港人眾籌全球登報</h2>
+          <p class="color-contrast-medium">11小時內籌得670萬港元，讓世界看見反送中訴求</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月26日</span>
@@ -196,6 +215,39 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://pbs.twimg.com/media/D-J1bVlUIAAncgb.jpg" width="100%" /></p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>失去義士</h2>
+          <p class="color-contrast-medium">教大21歲女生於梯間牆身留反修例字句墮樓亡</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月29日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://d2e7nuz2r6mjca.cloudfront.net/2019/6/1561812764_mf-1280w.jpg" width="100%" />版權：am730</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>失去義士</h2>
+          <p class="color-contrast-medium">29歲女子IFC天橋跳樓亡，fb遺言寫道「香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天…累了，不想再為明天努力…」</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月30日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://d2e7nuz2r6mjca.cloudfront.net/2019/6/1561812764_mf-1280w.jpg" width="100%" />版權：am730</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -227,7 +279,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>七一遊行，市民反抗暴政，佔領立法會，爭取雙真普選</h2>
+          <h2>七一大遊行，市民反抗暴政，佔領立法會，爭取雙真普選</h2>
           <p class="color-contrast-medium"></p>
 
           <div class="flex justify-between items-center">
@@ -237,6 +289,16 @@ function openMore(el) {
           <div class="hidden"><p></p>
             <div class="video-container"><iframe width="560" height="315" src="https://videop.mingpao.com/php/player1.php?file=https://video3.mingpao.com/inews/201907/20190701_protesttimelapse3.mp4&portal=webnews2&adv=ad001" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：明報</p>
+          </div>
+
+          <h2>衝擊立法會</h2>
+          <p class="color-contrast-medium"></p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月1日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2019/07/f41c1f56f8644f11bdb4b94678a7705d.JPG" width="100%" />版權：端傳媒</p>
           </div>
         </div> <!-- cd-timeline__content -->
