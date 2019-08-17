@@ -134,7 +134,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://ichef.bbci.co.uk/news/660/cpsprodpb/CA4C/production/_107388715_gettyimages-1150148083_01.jpg" width="100%" />版權：Getty Images</p>
-            <div class="video-container"><video controls><source src="https://video.news.gov.hk:8080/vod/VIDEO/chi/2019/06/20190615/20190615_151123_795/videos/20190615185901621.mp4" /></video></div>
+            <div class="video-container"><video controls><source src="http://video.news.gov.hk:8080/vod/VIDEO/chi/2019/06/20190615/20190615_151123_795/videos/20190615185901621.mp4" /></video></div>
             <p class="color-contrast-medium">版權：政府新聞網</p>
           </div>
         </div> <!-- cd-timeline__content -->
