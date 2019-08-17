@@ -742,6 +742,28 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
+          <h2>「英美港盟 主權在民」集會</h2>
+          <p class="color-contrast-medium">大專學界聯同連登「我要攬炒」團隊於遮打花園舉辦集會，多達6萬人出席。</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月16日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/816standwithhk.jpg" width="100%" /></p>
+	    <p class="color-contrast-medium"><img src="https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phprfZsVi.jpg" width="100%" />版權：路透社</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/HgYDvR0FzGI" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：蘋果日報</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
           <h2>教育界「守護下一代，為良知發聲」遊行</h2>
           <p class="color-contrast-medium">教協發起教育界遊行，2萬2千人參與</p>
 
