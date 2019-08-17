@@ -27,6 +27,7 @@ width: 100%;
 height: 100%;
 }
   </style>
+<script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
   <script>
 function openMore(el) {
 	$(el).toggleClass('more');
@@ -739,6 +740,5 @@ function openMore(el) {
     </div>
   </section> <!-- cd-timeline -->
   <script src="assets/js/main.js"></script>
-<script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 </body>
 </html>
