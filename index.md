@@ -736,6 +736,39 @@ function openMore(el) {
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+
+        <div class="cd-timeline__content text-component">
+          <h2>教育界「守護下一代，為良知發聲」遊行</h2>
+          <p class="color-contrast-medium">教協發起教育界遊行，2萬2千人參與</p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月17日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/817teacher.jpg" width="100%" /></p>
+	    <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190817/s00001/2b10e88efda15934e50ef04d68fb47c7.jpg" width="100%" />版權：明報</p>
+	    <div class="video-container" style="padding-bottom: 50%;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRTHKVNEWS%2Fvideos%2F525681911505017%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+          </div>
+
+          <h2>紅磡土瓜灣「光復紅土」遊行</h2>
+          <p class="color-contrast-medium"></p>
+
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月17日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/817hingto.jpg" width="100%" /></p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
     </div>
   </section> <!-- cd-timeline -->
   <script src="assets/js/main.js"></script>
