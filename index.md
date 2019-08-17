@@ -786,7 +786,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="images/817hingto.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="images/817hungto.jpg" width="100%" /></p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
