@@ -567,26 +567,38 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>逾千人包圍葵涌警署聲援被捕人士，警察一度用雷明燈槍瞄準市民。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>不合作運動「全港大塞車行動」</h2>
+          <p class="color-contrast-medium">港鐵調景嶺站阻礙車門關閉，往黃埔方向調景嶺站列車超過一個半小時無法開出。觀塘綫觀塘站至調景嶺站列車服務一度暫停。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月30日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-        <div class="cd-timeline__content text-component">
-          <h2>八號風球肆虐期間，近千人風雨不改在東區裁判法院外評援被控暴動罪義士。</h2>
-          <p class="color-contrast-medium"></p>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://d2e7nuz2r6mjca.cloudfront.net/2019/7/1564446148_Rs-1280w.jpg" width="100%" />版權：am730</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/PH07LKPbK2c" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：望神州香江</p>
+          </div>
+          <h2>葵涌警署外聲援44位被控暴動人士</h2>
+          <p class="color-contrast-medium">逾千人包圍葵涌警署聲援被捕人士，警察一度用雷明燈槍瞄準市民。</p>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年7月31日</span>
+            <span class="cd-timeline__date">2019年7月30日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/3104888/org/6f7bb6a03a08d83952ffcaa7a00a961f.jpg/nEtRVtLUmZpbVV2c4Tp3l19ymAmL3M2Vt94nxY3eJ8U" width="100%" />版權：HK01</p>
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ficablenews%2Fvideos%2F468723797021546%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：有線新聞</p>
+          </div>
+          <h2>天水圍警署外聲援當日3位於連儂牆被無理拘捕人士</h2>
+          <p class="color-contrast-medium">逾二百人包圍於天水圍警署門外抗議，直至凌晨兩點半，一部黑色私家車沿天耀路南行發射近10枚煙花襲擊包圍警署外人群。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月30日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -597,13 +609,112 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>旺角遊行期間，市民偏離原定遊行路線前往尖沙咀，多條行車線被佔，成功快閃佔領紅隧。<br/><br/>入夜後進行快閃攻勢，於尖沙咀警署、旺角、九龍城及黃大仙等佔領路段，與警方發生衝突。<br/><br/>警方連番發射催淚彈驅散人群，黃大仙居民用蒸盤碟擋催淚彈，用生命捍衛自己家園，趕走防暴警察。市民轉戰紀律部隊宿舍後，有人更從高空向示威者投擲危險品。<br/><br/>當晚，警方胡亂截停並濫捕無辜市民。</h2>
+          <h2>東區裁判法院外聲援44位被控暴動人士</h2>
+          <p class="color-contrast-medium">東區裁判法院進行第一次提訊，近千人於八號風球下聲援被控暴動罪義士。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月31日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>金融業快閃集會</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月1日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>公務員「公僕仝人，與民同行」集會</h2>
+          <p class="color-contrast-medium">4萬人冒雨出遮打花園集會</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月1日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+          <h2>醫護轉職集會</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月1日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>旺角再遊行</h2>
+          <p class="color-contrast-medium">旺角遊行期間，市民偏離原定遊行路線前往尖沙咀，多條行車線被佔，成功快閃佔領紅隧。<br/><br/>入夜後進行快閃攻勢，於尖沙咀警署、旺角、九龍城及黃大仙等佔領路段，與警方發生衝突。<br/><br/>警方連番發射催淚彈驅散人群，黃大仙居民用蒸盤碟擋催淚彈，用生命捍衛自己家園，趕走防暴警察。市民轉戰紀律部隊宿舍後，有人更從高空向示威者投擲危險品。<br/><br/>當晚，警方胡亂截停並濫捕無辜市民。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月3日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+           <h2>黃大仙街坊與警方對峙</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月3日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
-        </div> <!-- cd-timeline__content -->
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+       </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
 
@@ -612,12 +723,45 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>將軍澳遊行後包圍警署，並利用鐵馬及欄杆製作路障。防暴警推進時用警棍打傷中年男士頭部，大批街坊到場聲援。<br/><br/>港島西集會亦演變成另一場快閃戰。市民先佔西環，轉戰銅鑼灣後佔據軒尼詩道，快閃堵塞紅隧的港島出入口，再前往觀塘行動。<br/><br/>將軍澳、黃大仙、觀塘及天水圍四區警署同時被包圍，警方繼續濫捕無辜。<br/><br/>一名少女在天水圍被男警員粗暴抬走， 期間令她一直保持「走光」狀態。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>將軍澳遊行</h2>
+          <p class="color-contrast-medium">將軍澳遊行後包圍警署，並利用鐵馬及欄杆製作路障。防暴警推進時用警棍打傷中年男士頭部，大批街坊到場聲援。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月4日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+          <h2>港島西集會</h2>
+          <p class="color-contrast-medium">港島西集會亦演變成另一場快閃戰。市民先佔西環，轉戰銅鑼灣後佔據軒尼詩道，快閃堵塞紅隧的港島出入口，再前往觀塘行動。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月4日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+          <h2>將軍澳、黃大仙、觀塘及天水圍四區包圍警署</h2>
+          <p class="color-contrast-medium">一名少女在天水圍被男警員粗暴抬走， 期間令她一直保持「走光」狀態。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月4日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -627,12 +771,19 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>八五罷工，30萬市民參與七區集會。<br/><br/>網民發起不合作運動令交通嚴重瘫痪，迫使政府回應訴求。<br/><br/>多區警署被包圍，荃灣及北角再現白衣、藍衣人襲擊路人。<br/><br/>當日警方以多達800枚催淚彈驅散市民，有記者頭部中槍。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>全港三罷七區大集會</h2>
+          <p class="color-contrast-medium">八五罷工，30萬市民參與七區集會。<br/><br/>網民發起不合作運動令交通嚴重瘫痪，迫使政府回應訴求。<br/><br/>多區警署被包圍，荃灣及北角再現白衣、藍衣人襲擊路人。<br/><br/>當日警方以多達800枚催淚彈驅散市民，有記者頭部中槍。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月5日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -642,26 +793,18 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>第一次舉辦民間記者會。多個媒體到場採訪。<br/><br/>晚上，浸大學生會會長方仲賢因持有十支觀星用鐳射筆，被警方以管有攻擊性武器罪名拘捕，引起深水埗居民圍觀及不滿，包圍警署要求警方交代。<br/><br/>警方再以催淚彈驅散人群，防暴警鑽入小巷，隨意壓倒並拘捕市民。<br/><br/>沙田區議員黃學禮接報到場，警察恐嚇將以暴動及襲警罪名起訴他，最後改以非法集會把他拘捕。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>第一次民間記者會</h2>
+          <p class="color-contrast-medium">第一次舉辦民間記者會。多個媒體到場採訪。<br/><br/>晚上，浸大學生會會長方仲賢因持有十支觀星用鐳射筆，被警方以管有攻擊性武器罪名拘捕，引起深水埗居民圍觀及不滿，包圍警署要求警方交代。<br/><br/>警方再以催淚彈驅散人群，防暴警鑽入小巷，隨意壓倒並拘捕市民。<br/><br/>沙田區議員黃學禮接報到場，警察恐嚇將以暴動及襲警罪名起訴他，最後改以非法集會把他拘捕。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月6日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-        <div class="cd-timeline__content text-component">
-          <h2>法律界再次發起靜默遊行，反對律政司政治檢控並要求成立獨立調查委員會。<br/><br/>晚上市民自發於尖沙咀舉行「觀星活動」。逾千名市民用各類方法引證激光不會起火，包括用鐳射筆射向報紙等，打破警方在記招上的荒繆言論。<br/><br/>警方未有佈防，整晚亦沒有驅散行動，市民和平狂歡至凌晨，是近兩個月來，香港人最「歡樂」的時刻。</h2>
-          <p class="color-contrast-medium"></p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月7日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -672,12 +815,54 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>和理「飛」萬人接機<br/><br/>讓來自世界各地的人 了解反送中運動。</h2>
+          <h2>法律界二度黑衣遊行</h2>
+          <p class="color-contrast-medium">法律界再次發起靜默遊行，反對律政司政治檢控並要求成立獨立調查委員會。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月7日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+          <h2>太空館觀星</h2>
+          <p class="color-contrast-medium">晚上市民自發於尖沙咀舉行「觀星活動」。逾千名市民用各類方法引證激光不會起火，包括用鐳射筆射向報紙等，打破警方在記招上的荒繆言論。<br/><br/>警方未有佈防，整晚亦沒有驅散行動，市民和平狂歡至凌晨，是近兩個月來，香港人最「歡樂」的時刻。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月7日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>黃大仙沙田盂蘭節燒衣</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月9-11日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -687,8 +872,8 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>銀髮族早上再辦「萬歲籲警　放下屠刀」活動，前往警察總部、特首辦及律政司司長辦公室遞信。<br/><br/>有市民發起「守護孩子未來」親子集會，由愛丁堡廣場遊行到政府總部，傳達五大訴求。<br/><br/>原定「光復黃大仙」及大埔遊行遭警方反對。<br/><br/>市民如常遊行，其後於大圍、沙田、觀塘、尖沙咀、紅磡等，多地快閃堵路。<br/><br/>警方於多區無目標地施放多枚催淚彈，並拘捕無裝備女途人，控共襲警。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>銀髮族「萬歲籲警 放下屠刀」活動</h2>
+          <p class="color-contrast-medium">銀髮族早上再辦「萬歲籲警　放下屠刀」活動，前往警察總部、特首辦及律政司司長辦公室遞信。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月10日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
@@ -697,6 +882,30 @@ function openMore(el) {
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：東方日報</p>
           </div>
+          <h2>「守護孩子未來」親子集會</h2>
+          <p class="color-contrast-medium">有市民發起「守護孩子未來」親子集會，由愛丁堡廣場遊行到政府總部，傳達五大訴求。<br/><br/>原定「光復黃大仙」及大埔遊行遭警方反對。<br/><br/>市民如常遊行，其後於大圍、沙田、觀塘、尖沙咀、紅磡等，多地快閃堵路。<br/><br/>警方於多區無目標地施放多枚催淚彈，並拘捕無裝備女途人，控共襲警。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月10日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：東方日報</p>
+-->
+          </div>
+          <h2>黃大仙大埔遊行快閃多區堵路</h2>
+          <p class="color-contrast-medium">原定「光復黃大仙」及大埔遊行遭警方反對。<br/><br/>市民如常遊行，其後於大圍、沙田、觀塘、尖沙咀、紅磡等，多地快閃堵路。<br/><br/>警方於多區無目標地施放多枚催淚彈，並拘捕無裝備女途人，控共襲警。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月10日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：東方日報</p>
+-->
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -706,26 +915,17 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>港島東及深水埗遊行遭警方反對，只有維園集會能如期舉行。<br/><br/>市民多區快閃，警察喬裝示威者煽動前線，於地鐵站內施放催淚彈驅散。<br/><br/>警方更不顧指引，瞄頭發射布袋彈，一名女急救員當場中彈，右眼球爆裂，昏迷送院，恐永久失明及毀容。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>深水埗遊行及維園集會</h2>
+          <p class="color-contrast-medium">港島東及深水埗遊行遭警方反對，只有維園集會能如期舉行。<br/><br/>市民多區快閃，警察喬裝示威者煽動前線，於地鐵站內施放催淚彈驅散。<br/><br/>警方更不顧指引，瞄頭發射布袋彈，一名女急救員當場中彈，右眼球爆裂，昏迷送院，恐永久失明及毀容。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月11日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-        <div class="cd-timeline__content text-component">
-          <h2>旺角遊行期間，市民偏離原定遊行路線前往尖沙咀，多條行車線被佔，成功快閃佔領紅隧。<br/><br/>入夜後進行快閃攻勢，於尖沙咀警署、旺角、九龍城及黃大仙等佔領路段，與警方發生衝突。<br/><br/>警方連番發射催淚彈驅散人群，黃大仙居民用蒸盤碟擋催淚彈，用生命捍衛自己家園，趕走防暴警察。市民轉戰紀律部隊宿舍後，有人更從高空向示威者投擲危險品。<br/><br/>當晚，警方胡亂截停並濫捕無辜市民。</h2>
-          <p class="color-contrast-medium"></p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月4日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          <div class="hidden"><p></p>
+<!--
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：東方日報</p>
+-->
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -736,12 +936,18 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>「黑警還眼」機場罷工集會，市民替昨天受傷的女急救員討回公道。期間沒有發生任何衝突。<br/><br/>到下午時份，白色恐怖濃罩整個機場。一度傳出警方將於六時暴力清場、機場快線暫停及電訊網絡將會被關閉等消息。<br/><br/>人心惶惶，在場人士用盡方法及時離開，包括選擇從機場步行最少一小時至東涌市區。<br/><br/>結果，當晚警方並無作出任何行動。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>「黑警還眼」機場集會</h2>
+          <p class="color-contrast-medium">市民替昨天受傷的女急救員討回公道。期間沒有發生任何衝突。<br/><br/>到下午時份，白色恐怖濃罩整個機場。一度傳出警方將於六時暴力清場、機場快線暫停及電訊網絡將會被關閉等消息。<br/><br/>人心惶惶，在場人士用盡方法及時離開，包括選擇從機場步行最少一小時至東涌市區。<br/><br/>結果，當晚警方並無作出任何行動。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月12日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
+          <div class="hidden"><p></p>
+<!--
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：東方日報</p>
+-->
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -751,11 +957,38 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>「黑警還眼」機場罷工集會第二天。市民發現一名疑似中共警察及一名「環時」記者喬裝示威者。<br/><br/>期間發生衝突，警方施放胡椒噴霧，更一度拔槍。<br/><br/>有部份市民發放道歉文章，表示對旅客造成滋擾感到抱歉，希望能雅得他們理解及原諒。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>「黑警還眼」機場集會第二天</h2>
+          <p class="color-contrast-medium">市民發現一名疑似中共警察及一名「環時」記者喬裝示威者。<br/><br/>期間發生衝突，警方施放胡椒噴霧，更一度拔槍。<br/><br/>有部份市民發放道歉文章，表示對旅客造成滋擾感到抱歉，希望能雅得他們理解及原諒。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月13日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：東方日報</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>深水埗盂蘭節燒衣</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月14日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：東方日報</p>
+-->
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
