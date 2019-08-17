@@ -27,7 +27,6 @@ width: 100%;
 height: 100%;
 }
   </style>
-<script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
   <script>
 function openMore(el) {
 	$(el).toggleClass('more');
@@ -61,7 +60,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/62140780_10218280052010421_2335660192600948736_o_BoRwt_1200x0.png" width="100%" />版權：立場新聞</p>
-	    <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fstandnewshk%2Fvideos%2F1352094858287814%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+	    <div class="video-container" style="padding-bottom: 50%;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fstandnewshk%2Fvideos%2F1352094858287814%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
             <p class="color-contrast-medium">版權：立場新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -114,7 +113,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://static02-proxy.hket.com/res/v3/image/content/2375000/2377143/af43bc18-5c7a-4c37-98b9-438a3245c621_1024.jpg" width="100%" />版權：經濟日報</p>
-	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/hkcnews/videos/%E5%8D%B3%E6%99%82%E9%A6%99%E6%B8%AF%E5%AA%BD%E5%AA%BD%E5%8F%8D%E9%80%81%E4%B8%AD%E9%9B%86%E6%B0%A3%E5%A4%A7%E6%9C%83-%E7%8F%BE%E5%A0%B4%E7%9B%B4%E6%92%AD%E5%91%A8%E4%B8%89%E5%92%8C%E5%B9%B3%E7%A4%BA%E5%A8%81%E6%9C%9F%E9%96%93%E8%AD%A6%E6%96%B9%E4%BB%A5%E4%B8%8D%E5%B0%8D%E7%AD%89%E6%AD%A6%E5%8A%9B%E9%8E%AE%E5%A3%93%E7%A4%BA%E5%A8%81%E8%80%85%E6%9E%97%E9%84%AD%E4%BB%A5%E6%AF%8D%E8%A6%AA%E8%87%AA%E6%AF%94%E5%BD%A2%E5%AE%B9%E7%A4%BA%E5%A8%81%E8%80%85%E6%98%AF%E4%BB%BB%E6%80%A7%E7%9A%84%E5%AD%90%E5%A5%B3%E4%B8%80%E7%BE%A4%E8%BA%AB%E5%85%BC%E6%AF%8D%E8%A6%AA%E7%9A%84%E5%A4%A7%E5%BE%8B%E5%B8%AB%E5%AD%B8%E8%80%85%E7%A4%BE%E5%B7%A5%E7%AD%89%E7%99%BC%E8%B5%B7%E8%81%AF%E7%BD%B2%E7%9F%AD%E7%9F%AD16/316239522642866/" data-iframely-url="//cdn.iframe.ly/lfsrUDi?media=2"></a></div></div>
+	    <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhkcnews%2Fvideos%2F316239522642866%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
             <p class="color-contrast-medium">版權：眾新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -396,7 +395,7 @@ function openMore(el) {
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://gogetfunding.com/wp-content/uploads/2019/07/6185505/img/6wqrRB1.jpg" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/07/77%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%A4%A7%E9%81%8A%E8%A1%8C-%E5%8F%8D%E9%80%81%E4%B8%AD-20190708010515_2ab0_large.jpg" width="100%" />版權：美聯社</p>
-	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/hk01.news/videos/77%25E4%25B9%259D%25E9%25BE%258D%25E5%25A4%25A7%25E9%2581%258A%25E8%25A1%258C-01%25E7%259B%25B4%25E6%2592%25AD%25E8%25AD%25A6%25E6%2596%25B9%25E4%25B8%258D%25E6%2596%25B7%25E5%2591%25BC%25E7%25B1%25B2%25E9%2581%258A%25E8%25A1%258C%25E4%25BA%25BA%25E5%25A3%25AB%25E9%259B%25A2%25E9%2596%258B%25E5%2585%25A8%25E6%2596%2587%25E7%259B%25B4%25E6%2592%25ADhttpbitly2lc6xgs%25E7%258F%25BE%25E5%25A0%25B4%25E5%25AF%25A6%25E6%25B3%2581%25E9%2580%2583%25E7%258A%25AF%25E6%25A2%259D%25E4%25BE%258B%25E8%25B3%2587%25E8%25A8%258A%25E8%25AB%258B%25E5%258D%25B3follow%25E9%25A6%2599%25E6%25B8%25AF01-telegram%25E7%258F%25BE%25E5%25A0%25B4%25E6%259C%2580%25E6%2596%25B0%25E6%2583%2585/464168021051194/" data-iframely-url="//cdn.iframe.ly/ngnMux2?media=1"></a></div></div>
+	    <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk01.news%2Fvideos%2F464168021051194%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
             <p class="color-contrast-medium">版權：香港01</p>
           </div>
         </div> <!-- cd-timeline__content -->
@@ -461,7 +460,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://s.yimg.com/ny/api/res/1.2/VcScbDlsMwA12n6ylr5p.w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/zh-TW/thesun.hk.com/cd5a3cbe24052e2461430bb7fd37108e" width="100%" />版權：東方日報</p>
-	    <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 56.2%;"><a href="https://www.facebook.com/inmediahk/videos/%25E7%258D%25A8%25E5%25AA%2592%25E7%259B%25B4%25E6%2592%25AD717-%25E9%25A6%2599%25E6%25B8%25AF%25E9%258A%2580%25E9%25AB%25AE%25E6%2597%258F%25E9%259D%259C%25E9%25BB%2598%25E9%2581%258A%25E8%25A1%258C/364932304196001/" data-iframely-url="//cdn.iframe.ly/Tj3MiKp?media=1"></a></div></div>
+	    <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Finmediahk%2Fvideos%2F364932304196001%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
             <p class="color-contrast-medium">版權：獨立媒體</p>
           </div>
         </div> <!-- cd-timeline__content -->
