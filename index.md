@@ -385,19 +385,23 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>九龍區大遊行，抗爭者佔領彌敦道，重奪旺角。警察亂棍驅散示威者，推撞記者，對峙至凌晨。</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>九龍區大遊行</h2>
+          <p class="color-contrast-medium">「和理優」向自由行旅客宣傳反送中信息，港鐵停售賣由中午到晚上所有南北行高鐵車票</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月7日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="https://gogetfunding.com/wp-content/uploads/2019/07/6185505/img/6wqrRB1.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="77kowloon.jpg" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/07/77%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%A4%A7%E9%81%8A%E8%A1%8C-%E5%8F%8D%E9%80%81%E4%B8%AD-20190708010515_2ab0_large.jpg" width="100%" />版權：美聯社</p>
 	    <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk01.news%2Fvideos%2F464168021051194%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
             <p class="color-contrast-medium">版權：香港01</p>
           </div>
+
+          <h2>晚上重奪旺角</h2>
+          <p class="color-contrast-medium">警察亂棍驅散示威者，推撞記者，對峙至凌晨。</p>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
