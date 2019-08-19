@@ -409,14 +409,14 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>香港媽媽反送中集氣大會</h2>
+          <h2>「生命與玻璃：香港人的選擇」香港媽媽反送中集氣大會</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月5日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="" width="100%" />版權：經濟日報</p>
+            <p class="color-contrast-medium"><img src="images/75mother.jpg" width="100%" /></p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/wnRTUuU81m0" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：蘋果日報</p>
           </div>
@@ -451,7 +451,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>九龍區大遊行</h2>
-          <p class="color-contrast-medium">「和理優」向自由行旅客宣傳反送中信息，港鐵停售賣由中午到晚上所有南北行高鐵車票</p>
+          <p class="color-contrast-medium">23萬「和理優」向自由行旅客宣傳反送中信息，港鐵停售賣由中午到晚上所有南北行高鐵車票</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月7日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
@@ -464,6 +464,28 @@ function openMore(el) {
           </div>
           <h2>晚上重奪旺角</h2>
           <p class="color-contrast-medium">警察亂棍驅散示威者，推撞記者，對峙至凌晨。</p>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>守護油塘連儂牆</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月10日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://static.stheadline.com/stheadline/inewsmedia/20190713/_2019071316444511250.jpg" width="100%" />版權：星島日報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/mFLtR5mS1d4" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：TMHK</p>
+-->
+        </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -533,6 +555,27 @@ function openMore(el) {
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>絕食苦行</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月15日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://s.yimg.com/ny/api/res/1.2/VcScbDlsMwA12n6ylr5p.w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/zh-TW/thesun.hk.com/cd5a3cbe24052e2461430bb7fd37108e" width="100%" />版權：東方日報</p>
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Finmediahk%2Fvideos%2F364932304196001%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：獨立媒體</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--location">
@@ -630,8 +673,8 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>光復元朗「追究警黑勾結」遊行<br/></h2>
-          <p class="color-contrast-medium">對日前元朗無差別襲擊事件作出最大抗議。警方遭十八鄉恐嚇，最後以危險為理由對遊行發出反對通知書。香港人創意救港，到元朗觀光，再次聚集。警察清場時投擲催淚彈至民居範圍，催淚煙更嚴重影響老人院舍及鐵路運作。其後以拘捕為名，包圍元朗市中心，於元朗西鐵站襲擊並毆打市民，與721當天白衣人行為無異。</p>
+          <h2>光復元朗「追究警黑勾結」遊行</h2>
+          <p class="color-contrast-medium">28萬8千人自發遊元朗，對日前元朗無差別襲擊事件作出最大抗議。警方遭十八鄉恐嚇，最後以危險為理由對遊行發出反對通知書。香港人創意救港，到元朗觀光，再次聚集。警察清場時投擲催淚彈至民居範圍，催淚煙更嚴重影響老人院舍及鐵路運作。其後以拘捕為名，包圍元朗市中心，於元朗西鐵站襲擊並毆打市民，與721當天白衣人行為無異。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月27日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
@@ -806,7 +849,20 @@ function openMore(el) {
             <p class="color-contrast-medium">版權：香港電台</p>
 -->
           </div>
-           <h2>黃大仙街坊與警方對峙</h2>
+          <h2>黃大仙街坊與警方對峙 (need fc)</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月3日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+          <h2>馬鞍山街坊與警方對峙 (need fc)</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月3日</span>
@@ -955,7 +1011,7 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>黃大仙沙田盂蘭節燒衣</h2>
+          <h2>機場「萬人接機 繼續和你飛」集會</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月9-11日</span>
@@ -1009,6 +1065,19 @@ function openMore(el) {
 <!--
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：東方日報</p>
+-->
+          </div>
+          <h2>黃大仙沙田盂蘭節燒衣</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月10日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
 -->
           </div>
         </div> <!-- cd-timeline__content -->
