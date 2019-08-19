@@ -1033,6 +1033,25 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
+          <h2>黃大仙沙田施祈福除惡晚會</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月10日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/89wtsst.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/3142397/org/b645c9d5af10bf962e7fb4ba05dbc771.jpg/Pr9d8wYwOD8Wfm-4TlUQFNpVdON_InW7g4IsC6mCLAs" width="100%" />版權：香港01</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
           <h2>銀髮族「萬歲籲警 放下屠刀」活動</h2>
           <p class="color-contrast-medium">銀髮族早上再辦「萬歲籲警　放下屠刀」活動，前往警察總部、特首辦及律政司司長辦公室遞信。</p>
           <div class="flex justify-between items-center">
@@ -1065,19 +1084,6 @@ function openMore(el) {
 <!--
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：東方日報</p>
--->
-          </div>
-          <h2>黃大仙沙田盂蘭節燒衣</h2>
-          <p class="color-contrast-medium"></p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月10日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
-          </div>
-          <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
 -->
           </div>
         </div> <!-- cd-timeline__content -->
