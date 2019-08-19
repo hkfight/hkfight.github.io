@@ -976,6 +976,16 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
+<!--
+          <h2>反警暴 - 香港人眾籌全球登報</h2>
+          <p class="color-contrast-medium">1個小時已籌得100萬美元目標</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月12日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+          </div>
+-->	  
           <h2>「黑警還眼」機場集會</h2>
           <p class="color-contrast-medium">市民替昨天受傷的女急救員討回公道。期間沒有發生任何衝突。<br/><br/>到下午時份，白色恐怖濃罩整個機場。一度傳出警方將於六時暴力清場、機場快線暫停及電訊網絡將會被關閉等消息。<br/><br/>人心惶惶，在場人士用盡方法及時離開，包括選擇從機場步行最少一小時至東涌市區。<br/><br/>結果，當晚警方並無作出任何行動。</p>
           <div class="flex justify-between items-center">
