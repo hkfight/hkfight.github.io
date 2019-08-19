@@ -41,7 +41,7 @@ function openMore(el) {
     <h1>香港人抗爭時序</h1>
     <p class="margin-top-sm">2019年3月政府借陳同佳案為由，硬推《逃犯條例修訂》</p>
     <p class="margin-top-sm">多名手足被政權推下來，冷血政府卻漠視人命，至今仍然沒有回應。</p>
-    <p class="margin-top-sm">整場社運被警方拘捕義士多達500人。</p>
+    <p class="margin-top-sm">整場社運被警方拘捕義士多達700人。</p>
   </header>
 
   <section class="cd-timeline js-cd-timeline">
