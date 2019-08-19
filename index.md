@@ -213,6 +213,25 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
+          <h2>追究警察濫權集會</h2>
+          <p class="color-contrast-medium">數百人立法會煲底集會</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月23日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/623assembly.png" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/64810694_10156183616080785_6257834703949135872_o.jpg?_nc_cat=111&_nc_oc=AQlipOABn78RxeqKyLnwcIqdGF2LcEKNia4weh84kLOAlgTeeD4ZyGmMkV8KEnF2eMY&_nc_ht=scontent.fhkg10-1.fna&oh=f9b38d0d70bbc4d227d14cea5f4fd481&oe=5DE2C8BB" width="100%" />版權：社民連</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
           <h2>稅務大樓「接放工」行動</h2>
           <p class="color-contrast-medium">中午時段200人赴灣仔稅務大樓佔據出入口</p>
           <div class="flex justify-between items-center">
