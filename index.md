@@ -1115,26 +1115,6 @@ function openMore(el) {
           </div>
       </div> <!-- cd-timeline__block -->
 
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-        <div class="cd-timeline__content text-component">
-          <h2>香港人眾籌全球登報</h2>
-          <p class="color-contrast-medium">13個國家18份報章刊登香港人的廣告，向全世界繼續表明香港人對自由民主的堅持。</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月19-30日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
-          </div>
-          <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="images/818vp.jpg" width="100%" /></p>
-            <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/68718281_10157963740057448_4252577463437099008_o.jpg?_nc_cat=1&_nc_eui2=AeEmKv829CMKJt-AAP7_iMeHDwFzwRUKweh2TeUA3pQdrwN2LUbECJIJEVhlXuKGGIAnCx_hljRgih4Qdg3vYiQ6W0aW90FJbTNa5F49cM93Kw&_nc_oc=AQlhiJB1ahitsXUIPCDAHIrqei7by_CdirMZLY_mbDbsGAB97yxZjEnBC0mHJOUwB4Q&_nc_ht=scontent.fhkg10-1.fna&oh=8629004611ea6d389c61e29fb500faa3&oe=5DCC3A7F" width="100%" />版權：蘋果日報</p>
--->
-          </div>
-      </div> <!-- cd-timeline__block -->
-
     </div>
   </section> <!-- cd-timeline -->
   <script src="assets/js/main.js"></script>
