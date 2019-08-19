@@ -1051,16 +1051,14 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>民陣「煞停警黑亂港 落實五大訴求」集會</h2>
-          <p class="color-contrast-medium">170萬和理非流水式集會</p>
+          <p class="color-contrast-medium">170萬和理非維園流水式集會</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月18日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="images/818vp.jpg" width="100%" /></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190817/s00001/2b10e88efda15934e50ef04d68fb47c7.jpg" width="100%" />版權：明報</p>
--->
+            <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/68718281_10157963740057448_4252577463437099008_o.jpg?_nc_cat=1&_nc_eui2=AeEmKv829CMKJt-AAP7_iMeHDwFzwRUKweh2TeUA3pQdrwN2LUbECJIJEVhlXuKGGIAnCx_hljRgih4Qdg3vYiQ6W0aW90FJbTNa5F49cM93Kw&_nc_oc=AQlhiJB1ahitsXUIPCDAHIrqei7by_CdirMZLY_mbDbsGAB97yxZjEnBC0mHJOUwB4Q&_nc_ht=scontent.fhkg10-1.fna&oh=8629004611ea6d389c61e29fb500faa3&oe=5DCC3A7F" width="100%" />版權：蘋果日報</p>
             <div class="video-container" style="padding-bottom: 50%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/z41ke6-N9IQ" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：台視新聞</p>
           </div>
