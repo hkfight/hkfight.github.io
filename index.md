@@ -193,7 +193,22 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>G20 - 香港人眾籌全球登報</h2>
-          <p class="color-contrast-medium">11小時內籌得670萬港元，讓世界看見反送中訴求</p>
+          <p class="color-contrast-medium">11小時內籌得670萬港元，6月27至29日期間於13個國家共19份報章上刊登的公開信。</p>
+<!--
+澳洲《澳洲人報》(28/6)
+日本《 朝日新聞（The Asahi Shimbun）》(28/6)、《日本時報 》(28/6)
+南韓《朝鮮日報 》(28/6)、《東亞日報 》(28/6)、《韓國日報 한국일보 》(28/6)
+台灣《 蘋果新聞網 》(28/6)
+法國 《世界報》 Le Monde(28/6)、《巴黎人報》 Le Parisien(28/6)
+意大利 《晚郵報》 Corriere della Sera(28/6)
+英國《衛報》(27/6)、《泰晤士報》The Times(29/6)
+德國《南德意志報》(27/6)
+加拿大《環球郵報》 The Globe and Mail(27/6)
+瑞典 Dagens Nyheter(28/6)
+美國 《華盛頓郵報》 Washington Post(28/6)﹑《紐約時報》 The New York(28/6)
+西班牙 《世界報》El Mundo(29/6)
+歐盟 Politico 網上版 (27/6)
+-->
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月26日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
@@ -1063,6 +1078,26 @@ function openMore(el) {
             <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/68718281_10157963740057448_4252577463437099008_o.jpg?_nc_cat=1&_nc_eui2=AeEmKv829CMKJt-AAP7_iMeHDwFzwRUKweh2TeUA3pQdrwN2LUbECJIJEVhlXuKGGIAnCx_hljRgih4Qdg3vYiQ6W0aW90FJbTNa5F49cM93Kw&_nc_oc=AQlhiJB1ahitsXUIPCDAHIrqei7by_CdirMZLY_mbDbsGAB97yxZjEnBC0mHJOUwB4Q&_nc_ht=scontent.fhkg10-1.fna&oh=8629004611ea6d389c61e29fb500faa3&oe=5DCC3A7F" width="100%" />版權：蘋果日報</p>
             <div class="video-container" style="padding-bottom: 50%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/z41ke6-N9IQ" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：台視新聞</p>
+          </div>
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>香港人眾籌全球登報</h2>
+          <p class="color-contrast-medium">13個國家18份報章刊登香港人的廣告，向全世界繼續表明香港人對自由民主的堅持。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月19-30日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="images/818vp.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/68718281_10157963740057448_4252577463437099008_o.jpg?_nc_cat=1&_nc_eui2=AeEmKv829CMKJt-AAP7_iMeHDwFzwRUKweh2TeUA3pQdrwN2LUbECJIJEVhlXuKGGIAnCx_hljRgih4Qdg3vYiQ6W0aW90FJbTNa5F49cM93Kw&_nc_oc=AQlhiJB1ahitsXUIPCDAHIrqei7by_CdirMZLY_mbDbsGAB97yxZjEnBC0mHJOUwB4Q&_nc_ht=scontent.fhkg10-1.fna&oh=8629004611ea6d389c61e29fb500faa3&oe=5DCC3A7F" width="100%" />版權：蘋果日報</p>
+-->
           </div>
       </div> <!-- cd-timeline__block -->
 
