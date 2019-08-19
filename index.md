@@ -47,6 +47,40 @@ function openMore(el) {
   <section class="cd-timeline js-cd-timeline">
     <div class="container max-width-lg cd-timeline__container">
 
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>法律界黑衣靜默遊行</h2>
+          <p class="color-contrast-medium"></p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月6日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+          <h2>太空館觀星</h2>
+          <p class="color-contrast-medium">晚上市民自發於尖沙咀舉行「觀星活動」。逾千名市民用各類方法引證激光不會起火，包括用鐳射筆射向報紙等，打破警方在記招上的荒繆言論。<br/><br/>警方未有佈防，整晚亦沒有驅散行動，市民和平狂歡至凌晨，是近兩個月來，香港人最「歡樂」的時刻。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月7日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：香港電台</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--location">
@@ -74,7 +108,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>市民發動「三罷」</h2>
-          <p class="color-contrast-medium">警方武力清場，林鄭稱示威者「暴動」</p>
+          <p class="color-contrast-medium">阻上草案二讀，警方武力清場，林鄭稱示威者「暴動」</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月12日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
@@ -172,7 +206,7 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>發起包圍警總、政府大樓</h2>
+          <h2>包圍政府總部、警總、稅務大樓、入境處大樓</h2>
           <p class="color-contrast-medium">響應不合作運動</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月21日</span>
@@ -184,6 +218,46 @@ function openMore(el) {
           </div>
           <h2>政府稱已完全停止《逃犯條例》修例工作</h2>
           <p class="color-contrast-medium">政府發言人指本屆立法會會期明年七月結束，條例草案屆時將自動失效。</p>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>稅務大樓「接放工」行動</h2>
+          <p class="color-contrast-medium">中午時段200人赴灣仔稅務大樓佔據出入口</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月24日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2939727/org/7a8da4ddf2c142f628ace73490f25599.jpeg/a4sqe9sn4qNMWNS3nv0PDUxTKsI66jE1zEC_U8xAv1M?v=w1280r16_9" width="100%" />版權：香港01</p>
+-->
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>「唔好意思」行動道歉</h2>
+          <p class="color-contrast-medium">由立法會示威區前往灣仔稅務大樓派發傳單、飲品及食物，為昨天的行動向市民說聲「唔好意思」。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月25日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+<!--
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2939727/org/7a8da4ddf2c142f628ace73490f25599.jpeg/a4sqe9sn4qNMWNS3nv0PDUxTKsI66jE1zEC_U8xAv1M?v=w1280r16_9" width="100%" />版權：香港01</p>
+-->
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
