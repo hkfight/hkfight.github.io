@@ -1118,6 +1118,19 @@ function openMore(el) {
         <div class="cd-timeline__content text-component">
           <h2>反警暴 - 香港人眾籌全球登報</h2>
           <p class="color-contrast-medium">1個小時已籌得100萬美元目標(19-30日13個國家18份報章details to be updated)</p>
+<!--
+美國《紐約時報》 The New York Times(19/8)
+加拿大《環球郵報》 The Globe and Mail(19/8)
+日本《日本経済新聞（日経新聞）》 The Nihon Keizai Shinbun(19/8)
+韓國《京鄉新聞》 경향신문(19/8)
+西班牙《世界報》 El Mundo(19/8)
+德國《法蘭克福滙報》 FAZ.NET - Frankfurter Allgemeine Zeitung(19/8)
+台灣《 自由時報》The Liberty Times(19/8)
+法國《世界報》 Le Monde(19/8)
+瑞典《每日新聞報》 Dagens Nyheter(19/8)、《每日工業報》 Dagens industri(19/8)
+丹麥《貝林時報》 Berlingske(19/8)
+英國《倫敦標準晚報》London Evening Standard(20/8)《泰晤士報》The Times and The Sunday Times(20/8)、 《City AM 》(20/8)
+-->
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月12日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
