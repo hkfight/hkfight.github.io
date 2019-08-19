@@ -818,9 +818,8 @@ function openMore(el) {
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="images/81fianace.png" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190801/s00001/03e5a46798077ab938df835b3be365e5.jpg" width="100%" />版權：明報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
--->
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fappledailyatm%2Fvideos%2F2400404723339189%2F&width=500&show_text=false&appId=1662638814010562&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：蘋果日報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
