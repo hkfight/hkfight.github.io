@@ -977,7 +977,7 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>反警暴 - 香港人眾籌全球登報</h2>
-          <p class="color-contrast-medium">1個小時已籌得100萬美元目標(details to be updated)</p>
+          <p class="color-contrast-medium">1個小時已籌得100萬美元目標(19-30日13個國家18份報章details to be updated)</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月12日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
