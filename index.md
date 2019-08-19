@@ -247,26 +247,16 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>「唔好意思」行動道歉</h2>
+          <h2>「唔好意思」道歉行動</h2>
           <p class="color-contrast-medium">由立法會示威區前往灣仔稅務大樓派發傳單、飲品及食物，為昨天的行動向市民說聲「唔好意思」。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月25日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2939727/org/7a8da4ddf2c142f628ace73490f25599.jpeg/a4sqe9sn4qNMWNS3nv0PDUxTKsI66jE1zEC_U8xAv1M?v=w1280r16_9" width="100%" />版權：香港01</p>
--->
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2953723/org/359d74108dc7b0231e8235fab6caea89.jpg/8J5-IWenqNEyg9hmRFp4wddhA1WirZuT-Uy96PlMveg" width="100%" />版權：香港01</p>
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2953728/org/869eb4e3a00aecf2f8326cde9a05fbaa.jpg/HoD7y_9S_lMrCCza_Xh3FkQE-nKCo0s2FfJw4RXycOE" width="100%" />版權：香港01</p>
           </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-        <div class="cd-timeline__content text-component">
           <h2>G20 - 香港人眾籌全球登報</h2>
           <p class="color-contrast-medium">11小時內籌得670萬港元，6月27至29日期間於13個國家共19份報章上刊登的公開信。</p>
 <!--
@@ -285,7 +275,7 @@ function openMore(el) {
 歐盟 Politico 網上版 (27/6)
 -->
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年6月26日</span>
+            <span class="cd-timeline__date">2019年6月25日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
@@ -388,7 +378,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2979847/org/c7488a7f92afb1efda650749e3ed9130.jpg/owxE1t0b1YIQYWJvlV7UA41vQiUpjqjBtDR1A540dQM" width="100%" />版權：HK01</p>
+            <p class="color-contrast-medium"><img src="https://cdn.hk01.com/di/media/images/2979847/org/c7488a7f92afb1efda650749e3ed9130.jpg/owxE1t0b1YIQYWJvlV7UA41vQiUpjqjBtDR1A540dQM" width="100%" />版權：香港01</p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/6JznM5t6ylY" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：眾新聞</p>
           </div>
