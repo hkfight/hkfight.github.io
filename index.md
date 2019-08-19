@@ -1050,20 +1050,20 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>「煞停警黑亂港 落實五大訴求」集會</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>民陣「煞停警黑亂港 落實五大訴求」集會</h2>
+          <p class="color-contrast-medium">170萬和理非流水式集會</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月18日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
-<!--
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="images/817teacher.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="images/818vp.jpg" width="100%" /></p>
+<!--
             <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190817/s00001/2b10e88efda15934e50ef04d68fb47c7.jpg" width="100%" />版權：明報</p>
-            <div class="video-container" style="padding-bottom: 50%;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2FRTHKVNEWS%2Fvideos%2F525681911505017%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
-          </div>
 -->
+            <div class="video-container" style="padding-bottom: 50%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/z41ke6-N9IQ" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：台視新聞</p>
+          </div>
       </div> <!-- cd-timeline__block -->
 
     </div>
