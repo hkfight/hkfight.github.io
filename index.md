@@ -427,6 +427,31 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
+          <h2>《中英聯合聲明》 - 香港人眾籌英國登報</h2>
+          <p class="color-contrast-medium">半日內籌得300萬港元，7月24至26日期間於英國7間媒體、3個網站及街頭廣告牌刊登，控訴中共違反《中英聯合聲明》。</p>
+<!--
+《衛報》（The Guardian）、《倫敦標準晚報》（Evening Standard）(24/7)
+《旁觀者》（Spectator）(25/7)
+《新政治家》（New Statesman）(26)
+網站Spectator Coffee House、Guido Fawkes、Conservative Home(24/7)
+倫敦 Chelsea Yacht Club 及 Lots Road 、利物浦 Prescot Road、伯明翰 Upper Dean Street、愛丁堡及卡迪夫的廣告牌(24-26)
+-->
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月12日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/uk-15_v6Yji_1200x0.png" width="100%" />立場新聞</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
           <h2>沙田區大遊行</h2>
           <p class="color-contrast-medium">11萬5千人由大圍走到沙田，完結前警民於源和路外對峙。另一邊廂警方精心佈局，蓄意封鎖沙田港鐵站，四面包圍闖入新城市廣場，與抗爭者亂戰。於不反對通知書仍生效時，警方在無合理懷疑下，於大會堂外拘捕33名年青人，並以非法集結等其他罪名，扣留男人三十多小時或以上。</p>
           <div class="flex justify-between items-center">
