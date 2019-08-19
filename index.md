@@ -79,6 +79,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/69march.png" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/62140780_10218280052010421_2335660192600948736_o_BoRwt_1200x0.png" width="100%" />版權：立場新聞</p>
             <div class="video-container" style="padding-bottom: 50%;"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fstandnewshk%2Fvideos%2F1352094858287814%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
             <p class="color-contrast-medium">版權：立場新聞</p>
@@ -275,6 +276,36 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
+          <h2>G20各國駐港領事館請願</h2>
+          <p class="color-contrast-medium">1500名市民兵分三路到19國領事館請願，除印度、印尼及俄羅斯外，其餘16國派員接收信件。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月26日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/626consulate1.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="images/626consulate2.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="images/626consulate3.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/hk-03_vc6F0_1200x0.png" width="100%" />版權：立場新聞</p>
+          </div>
+          <h2>G20 Free Hong Kong 集會</h2>
+          <p class="color-contrast-medium">逼爆愛丁堡廣場、展城館外、愛丁堡廣場停車場天台、郵政總局外龍和道一帶</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月26日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/626g20freehk.png" width="100%" /></p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
           <h2>包圍律政中心</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
@@ -328,13 +359,14 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>七一大遊行</h2>
+          <h2>「撤回惡法 林鄭下台」七一大遊行</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月1日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/71march.jpg" width="100%" /></p>
             <div class="video-container"><iframe width="560" height="315" src="https://videop.mingpao.com/php/player1.php?file=https://video3.mingpao.com/inews/201907/20190701_protesttimelapse3.mp4&portal=webnews2&adv=ad001" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：明報</p>
           </div>
