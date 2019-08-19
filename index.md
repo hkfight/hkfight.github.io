@@ -326,15 +326,13 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>包圍律政中心</h2>
-          <p class="color-contrast-medium"></p>
+          <p class="color-contrast-medium">逾三百名示威者包圍律政中心，職員提早放工，至示威者離開後，晚上十一時十分鄭若驊登上座駕離去。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年6月27日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="https://scontent-ams4-1.cdninstagram.com/v/t51.2885-15/e35/65300435_176444883367097_7595287421040059584_n.jpg?_nc_ht=scontent-ams4-1.cdninstagram.com&se=8&oh=2237366de95893a6acaf0c91cc3df19f&oe=5E11E4E3&ig_cache_key=MjA3NTI3OTIzNzgwNTIzNTkyNA%3D%3D.2" width="100%" />版權：蘋果日報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/WpehzheXX1E" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：立場新聞</p>
+            <p class="color-contrast-medium"><img src="https://s.yimg.com/ny/api/res/1.2/Fsj9Ge3lobEKnApOWx_VQw--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9MTI4MDtoPTk2MA--/https://media.zenfs.com/zh-TW/thesun.hk.com/d6f56eb7b60715e7137706cdd0a44ff0" width="100%" />版權：東網</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -365,10 +363,6 @@ function openMore(el) {
         <div class="cd-timeline__content text-component">
           <h2>失去義士</h2>
           <p class="color-contrast-medium">29歲女子IFC天橋跳樓亡，Facebook遺言寫道「香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天…累了，不想再為明天努力…」</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年6月30日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
-          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -465,8 +459,8 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>光復屯門</h2>
-          <p class="color-contrast-medium">數大名警員護送一位大媽離開</p>
+          <h2>「光復屯門公園」遊行</h2>
+          <p class="color-contrast-medium">逾萬市民到場要求政府處理賣唱團體造成的噪音滋擾問題、取締不雅、行乞活動，及取消公園自娛區，數十名警員護送一位大媽離開</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月6日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
@@ -493,7 +487,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="77kowloon.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="images/77kowloon.jpg" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/07/77%E4%B9%9D%E9%BE%8D%E5%8D%80%E5%A4%A7%E9%81%8A%E8%A1%8C-%E5%8F%8D%E9%80%81%E4%B8%AD-20190708010515_2ab0_large.jpg" width="100%" />版權：美聯社</p>
             <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk01.news%2Fvideos%2F464168021051194%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
             <p class="color-contrast-medium">版權：香港01</p>
@@ -537,6 +531,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/713sheungshui.jpg" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://static.stheadline.com/stheadline/inewsmedia/20190713/_2019071316444511250.jpg" width="100%" />版權：星島日報</p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/mFLtR5mS1d4" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：TMHK</p>
@@ -585,8 +580,8 @@ function openMore(el) {
             <p class="color-contrast-medium"><img src="https://i.lihkg.com/540/https://na.cx/i/c5Nu8FS.png" width="100%" /></p>
             <p class="color-contrast-medium"><img src="https://d32kak7w9u5ewj.cloudfront.net/media/image/2019/07/3054d7dedc144efc8bc14c3563a30706.jpg?imageView2/1/w/1080/h/720/format/jpg" width="100%" />版權：端傳媒</p>
             <p class="color-contrast-medium"><img src="https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2019/07/15/4/6566058.jpg&x=0&y=0&sw=0&sh=0&exp=3600" width="100%" />版權：路透社</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/_mCHZ8F7JTU" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：壹電視</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/EwXsIaYlrsU" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：蘋果日報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -597,18 +592,17 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>絕食苦行</h2>
-          <p class="color-contrast-medium"></p>
+          <h2>苦行上禮賓</h2>
+          <p class="color-contrast-medium">2400人與絕食者由海富中心步行至禮賓府遞交請願信</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月15日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://s.yimg.com/ny/api/res/1.2/VcScbDlsMwA12n6ylr5p.w--~A/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/https://media.zenfs.com/zh-TW/thesun.hk.com/cd5a3cbe24052e2461430bb7fd37108e" width="100%" />版權：東方日報</p>
-            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Finmediahk%2Fvideos%2F364932304196001%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
-            <p class="color-contrast-medium">版權：獨立媒體</p>
--->
+            <p class="color-contrast-medium"><img src="images/715ascetic" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://live.staticflickr.com/65535/48290306667_eacf2db65c_b.jpg" width="100%" />版權：獨立媒體</p>
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk01.news%2Fvideos%2F2814941578578226%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></iframe></div>
+            <p class="color-contrast-medium">版權：香港01</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -816,14 +810,14 @@ function openMore(el) {
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>金融業快閃集會</h2>
-          <p class="color-contrast-medium"></p>
+          <p class="color-contrast-medium">約1000人以傘為記，傍晚冒雨出席遮打花園發起集會。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月1日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
+            <p class="color-contrast-medium"><img src="images/81fianace.png" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190801/s00001/03e5a46798077ab938df835b3be365e5.jpg" width="100%" />版權：明報</p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：香港電台</p>
 -->
