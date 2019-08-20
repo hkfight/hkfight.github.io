@@ -1296,7 +1296,7 @@ function openMore(el) {
             <div class="video-container" style="padding-bottom: 50%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/z41ke6-N9IQ" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：台視新聞</p>
           </div>
-        </div> <!-- cd-timeline__content -- >
+        </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
 
@@ -1350,7 +1350,7 @@ function openMore(el) {
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="images/823hkway.jpg" width="100%" /></p>
           </div>
-	  <h2>會計界遊行</h2>
+          <h2>會計界遊行</h2>
           <p class="color-contrast-medium">(tbd)</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月23日</span>
