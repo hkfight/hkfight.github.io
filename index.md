@@ -1314,6 +1314,7 @@ function openMore(el) {
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="images/821yuenlong.jpg" width="100%" /></p>
           </div>
+        </div> <!-- cd-timeline__content -- >
       </div> <!-- cd-timeline__block -->
 
 
