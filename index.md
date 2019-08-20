@@ -1088,6 +1088,8 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/810elder.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://i.epochtimes.com/assets/uploads/2019/08/1-26.jpg" width="100%" />版權：大紀元新聞</p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：東方日報</p>
           </div>
