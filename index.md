@@ -1047,6 +1047,7 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/89-11airport.jpg" width="100%" /></p>
 <!--
             <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
