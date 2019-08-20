@@ -1065,7 +1065,7 @@ function openMore(el) {
           <h2>黃大仙沙田施祈福除惡晚會</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月10日</span>
+            <span class="cd-timeline__date">2019年8月9日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
@@ -1092,16 +1092,16 @@ function openMore(el) {
             <p class="color-contrast-medium">版權：東方日報</p>
           </div>
           <h2>「守護孩子未來」親子集會</h2>
-          <p class="color-contrast-medium">有市民發起「守護孩子未來」親子集會，由愛丁堡廣場遊行到政府總部，傳達五大訴求。<br/><br/>原定「光復黃大仙」及大埔遊行遭警方反對。<br/><br/>市民如常遊行，其後於大圍、沙田、觀塘、尖沙咀、紅磡等，多地快閃堵路。<br/><br/>警方於多區無目標地施放多枚催淚彈，並拘捕無裝備女途人，控共襲警。</p>
+          <p class="color-contrast-medium">有市民發起「守護孩子未來」親子集會，由愛丁堡廣場遊行到政府總部，傳達五大訴求。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月10日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：東方日報</p>
--->
+            <p class="color-contrast-medium"><img src="images/810parentchild.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="http://img.soundofhope.org/2019/08/children14-600x399.jpg" width="100%" />版權：立場新聞</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/8YeoXHyKS3w" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：大紀元新聞</p>
           </div>
           <h2>黃大仙大埔遊行快閃多區堵路</h2>
           <p class="color-contrast-medium">原定「光復黃大仙」及大埔遊行遭警方反對。<br/><br/>市民如常遊行，其後於大圍、沙田、觀塘、尖沙咀、紅磡等，多地快閃堵路。<br/><br/>警方於多區無目標地施放多枚催淚彈，並拘捕無裝備女途人，控共襲警。</p>
