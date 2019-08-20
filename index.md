@@ -1229,6 +1229,15 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
+          <h2>全民提款日</h2>
+          <p class="color-contrast-medium">民間發起呼籲市民從銀行提走所有存款，務求向香港金融體系施加壓力，令政府回應訴求。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月16日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/816atm.jpg" width="100%" /></p>
+          </div>
           <h2>「英美港盟 主權在民」集會</h2>
           <p class="color-contrast-medium">大專學界聯同連登「我要攬炒」團隊於遮打花園舉辦集會，多達6萬人出席。</p>
           <div class="flex justify-between items-center">
