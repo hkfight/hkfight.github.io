@@ -837,24 +837,19 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
--->
+            <p class="color-contrast-medium"><img src="images/82civil.jpg" width="100%" /></p>
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk01.news%2Fvideos%2F1498067417013135%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：香港01</p>
           </div>
-          <h2>醫護轉職集會</h2>
+          <h2>醫護專職集會</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月1日</span>
+            <span class="cd-timeline__date">2019年8月2日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
--->
+            <p class="color-contrast-medium"><img src="images/82medic.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/67654952_10161903526490265_9111288122167001088_o_9QFiR_1200x0.png" width="100%" />版權：立場新聞</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
