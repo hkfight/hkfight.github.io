@@ -1187,10 +1187,13 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/QQiNxA9vzv8" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：東方日報</p>
--->
+            <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/08/813%E6%A9%9F%E5%A0%B4%E8%A1%9D%E7%AA%81-%E6%A9%9F%E5%A0%B4%E5%8C%85%E5%9C%8D%E5%85%A7%E5%9C%B0%E7%94%B7-%E7%96%91%E4%BC%BC%E5%85%AC%E5%AE%89-20190814040348_d13a_large.jpg" width="100%" />版權：眾新聞</p>
+            <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/08/%E7%92%B0%E7%90%83%E6%99%82%E5%A0%B1-%E6%A9%9F%E5%A0%B4%E5%8C%85%E5%9C%8D%E5%85%A7%E5%9C%B0%E7%94%B7-%E8%A8%98%E8%80%85-20190814040443_26e9_large.jpg" width="100%" />版權：眾新聞</p>
+	    <p class="color-contrast-medium"><img src="https://www.hkcnews.com/news_%E6%96%B0%E8%81%9E/hk-discuss/2019/08/813%E6%A9%9F%E5%A0%B4%E8%A1%9D%E7%AA%81-police-%E8%83%A1%E6%A4%92%E5%99%B4%E9%9C%A7-20190814040409_21e5_large.jpg" width="100%" />版權：眾新聞</p>
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk01wemedia%2Fvideos%2F2111407872497123%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：香港01</p>
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fhk01.news%2Fvideos%2F726149304502149%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：香港01</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
