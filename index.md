@@ -990,11 +990,9 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
--->
+            <p class="color-contrast-medium"><img src="http://scd.cn.rfi.fr/sites/chinese.filesrfi/imagecache/rfi_16x9_1024_578/sites/images.rfi.fr/files/aefimagesnew/aef_image/000_1jc7ju.jpg" width="100%" />版權：路透社</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZxVStDJazf4" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：852郵報</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -1012,11 +1010,9 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
--->
+            <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/67832584_10217868721302119_5665789009977147392_o_50hBT_PSm8k_1200x0.png" width="100%" />版權：立場新聞</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/KR5zX0APF2Y" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：大紀元時報</p>
           </div>
           <h2>太空館觀星</h2>
           <p class="color-contrast-medium">晚上市民自發於尖沙咀舉行「觀星活動」。逾千名市民用各類方法引證激光不會起火，包括用鐳射筆射向報紙等，打破警方在記招上的荒繆言論。<br/><br/>警方未有佈防，整晚亦沒有驅散行動，市民和平狂歡至凌晨，是近兩個月來，香港人最「歡樂」的時刻。</p>
@@ -1025,11 +1021,9 @@ function openMore(el) {
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
-<!--
-            <p class="color-contrast-medium"><img src="https://fs.mingpao.com/ins/20190731/s00001/b9c0d5cab423ad916911f57fdeb44d50.jpg" width="100%" />版權：明報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/kf26PJuLZQY" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：香港電台</p>
--->
+            <p class="color-contrast-medium"><img src="https://static.stheadline.com/stheadline/inewsmedia/20190807/_2019080721565583576.jpg" width="100%" />版權：頭條日報</p>
+            <div class="video-container"><iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Finmediahk%2Fvideos%2F505061313636251%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe></div>
+            <p class="color-contrast-medium">版權：獨立媒體</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
