@@ -1306,6 +1306,78 @@ function openMore(el) {
             <div class="video-container" style="padding-bottom: 50%;"><iframe width="560" height="315" src="https://www.youtube.com/embed/z41ke6-N9IQ" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：台視新聞</p>
           </div>
+        </div> <!-- cd-timeline__content -- >
+      </div> <!-- cd-timeline__block -->
+
+
+      <!--div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -- >
+        <div class="cd-timeline__content text-component">
+          <h2>元朗站靜坐</h2>
+          <p class="color-contrast-medium">721元朗恐怖襲擊一個月</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月21日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/818yuenlong.jpg" width="100%" /></p>
+          </div>
+      </div> <!-- cd-timeline__block -->
+
+
+      <!--div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -- >
+        <div class="cd-timeline__content text-component">
+          <h2>中學生集會</h2>
+          <p class="color-contrast-medium">愛丁堡廣場和平集會</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月22日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/822highschool.jpg" width="100%" /></p>
+          </div>
+        </div> <!-- cd-timeline__content -- >
+      </div> <!-- cd-timeline__block -->
+
+
+      <!--div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -- >
+        <div class="cd-timeline__content text-component">
+          <h2>香港之路</h2>
+          <p class="color-contrast-medium">721元朗恐怖襲擊一個月</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月23日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/823hkway.jpg" width="100%" /></p>
+          </div>
+	  <h2>會計界遊行</h2>
+          <p class="color-contrast-medium">(tbd)</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月23日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/823accounting.jpg" width="100%" /></p>
+          </div>
+          <h2>基督徒集會</h2>
+          <p class="color-contrast-medium">遮打花園以和平、理性、非暴力方式表達反送中五大訴求</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年8月23日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/823christian.jpg" width="100%" /></p>
+          </div>
+        </div> <!-- cd-timeline__content -- >
       </div> <!-- cd-timeline__block -->
 
     </div>
