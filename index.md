@@ -1316,6 +1316,7 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="images/821yuenlong.jpg" width="100%" /></p>
+	    <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/68837843_2364232897174385_7923656315371520_n.jpg?_nc_cat=1&_nc_eui2=AeGlnmV36lddd2wCkZbDP3nD3x7gYSOlKrbebL2c28s8wnRJUxK1EKy3xaWfBWudm9aJG2JkTR3cQpepGiaTRnzwC-KiT5qo_m_svfH3jH3dyQ&_nc_oc=AQktiopo8-B7zVuU-_zJt6Ygrt5JFnwMkdK_D40UdrgTqLqfT2dP2kO5fhJQezgCVbY&_nc_ht=scontent.fhkg10-1.fna&oh=e3f03bb7d4e3e38ec0a27f721d011988&oe=5E14BA60" width="100%" />版權：Resistance Live Media</p>
             <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/68752468_10157975430482448_6706244360691777536_n.jpg?_nc_cat=1&_nc_eui2=AeHmFk4CGcoXUFJ6PS7kwnqPWxuesASkgY86FD0U41l0-W_7UXXUtq8O2iA_YPrtmdpAQyBkeZZKLDlLPoAYVV5wD4VVV3QJmLlrCJ9G1nV36Q&_nc_oc=AQnVSoqv_-kZ0hxjp8rmjV6I4MERserUxABYtdvq5P9tCkR1XJm13oJ6XWUGbUPDsWk&_nc_ht=scontent.fhkg10-1.fna&oh=5a5aba4a95528d61de666ff6b3379398&oe=5DDD2728" width="100%" />版權：蘋果日報</p>
           </div>
         </div> <!-- cd-timeline__content -->
