@@ -1326,7 +1326,7 @@ function openMore(el) {
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -- >
         <div class="cd-timeline__content text-component">
-          <h2>中學生集會</h2>
+          <h2>中學生反修例集會</h2>
           <p class="color-contrast-medium">愛丁堡廣場和平集會</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月22日</span>
