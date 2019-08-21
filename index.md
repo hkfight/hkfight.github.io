@@ -1303,21 +1303,22 @@ function openMore(el) {
       </div> <!-- cd-timeline__block -->
 
 
-      <!--div class="cd-timeline__block">
+      <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--location">
           <img src="assets/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -- >
         <div class="cd-timeline__content text-component">
           <h2>元朗站靜坐</h2>
-          <p class="color-contrast-medium">721元朗恐怖襲擊一個月</p>
+          <p class="color-contrast-medium">千人元朗站靜坐悼念721元朗恐怖襲擊一個月</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年8月21日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="images/821yuenlong.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://scontent.fhkg10-1.fna.fbcdn.net/v/t1.0-9/68752468_10157975430482448_6706244360691777536_n.jpg?_nc_cat=1&_nc_eui2=AeHmFk4CGcoXUFJ6PS7kwnqPWxuesASkgY86FD0U41l0-W_7UXXUtq8O2iA_YPrtmdpAQyBkeZZKLDlLPoAYVV5wD4VVV3QJmLlrCJ9G1nV36Q&_nc_oc=AQnVSoqv_-kZ0hxjp8rmjV6I4MERserUxABYtdvq5P9tCkR1XJm13oJ6XWUGbUPDsWk&_nc_ht=scontent.fhkg10-1.fna&oh=5a5aba4a95528d61de666ff6b3379398&oe=5DDD2728" width="100%" />版權：蘋果日報</p>
           </div>
-        </div> <!-- cd-timeline__content -- >
+        </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
 
