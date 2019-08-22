@@ -363,6 +363,10 @@ function openMore(el) {
         <div class="cd-timeline__content text-component">
           <h2>失去義士</h2>
           <p class="color-contrast-medium">29歲女子IFC天橋跳樓亡，Facebook遺言寫道「香港，加油。我希望可以看到你們的勝利。七一我去不了，其實真的絕望透了。所有的事情也讓我覺得沒有明天…累了，不想再為明天努力…」</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年6月30日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
