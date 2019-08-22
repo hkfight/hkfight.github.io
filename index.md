@@ -837,7 +837,7 @@ function openMore(el) {
           <h2>公務員「公僕仝人，與民同行」集會</h2>
           <p class="color-contrast-medium">4萬人冒雨出遮打花園集會</p>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月1日</span>
+            <span class="cd-timeline__date">2019年8月2日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
@@ -848,7 +848,6 @@ function openMore(el) {
           <h2>醫護專職集會</h2>
           <p class="color-contrast-medium"></p>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年8月2日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
           </div>
           <div class="hidden"><p></p>
