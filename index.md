@@ -523,26 +523,6 @@ function openMore(el) {
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="assets/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-        <div class="cd-timeline__content text-component">
-          <h2>光復上水反水貨客遊行</h2>
-          <p class="color-contrast-medium">三萬人遊行後警方以胡椒噴霧驅趕民眾，防暴警武力清場。</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">2019年7月13日</span>
-            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
-          </div>
-          <div class="hidden"><p></p>
-            <p class="color-contrast-medium"><img src="images/713sheungshui.jpg" width="100%" /></p>
-            <p class="color-contrast-medium"><img src="https://static.stheadline.com/stheadline/inewsmedia/20190713/_2019071316444511250.jpg" width="100%" />版權：星島日報</p>
-            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/mFLtR5mS1d4" frameborder="0" allowfullscreen></iframe></div>
-            <p class="color-contrast-medium">版權：TMHK</p>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--location">
@@ -564,6 +544,26 @@ function openMore(el) {
           </div>
           <div class="hidden"><p></p>
             <p class="color-contrast-medium"><img src="https://cdn.thestandnews.com/media/photos/cache/uk-15_v6Yji_1200x0.png" width="100%" />立場新聞</p>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--location">
+          <img src="assets/img/cd-icon-location.svg" alt="Location">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>光復上水反水貨客遊行</h2>
+          <p class="color-contrast-medium">三萬人遊行後警方以胡椒噴霧驅趕民眾，防暴警武力清場。</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">2019年7月13日</span>
+            <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
+          </div>
+          <div class="hidden"><p></p>
+            <p class="color-contrast-medium"><img src="images/713sheungshui.jpg" width="100%" /></p>
+            <p class="color-contrast-medium"><img src="https://static.stheadline.com/stheadline/inewsmedia/20190713/_2019071316444511250.jpg" width="100%" />版權：星島日報</p>
+            <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/mFLtR5mS1d4" frameborder="0" allowfullscreen></iframe></div>
+            <p class="color-contrast-medium">版權：TMHK</p>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
