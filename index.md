@@ -649,8 +649,8 @@ function openMore(el) {
             <div class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/CQSVxbFlje8" frameborder="0" allowfullscreen></iframe></div>
             <p class="color-contrast-medium">版權：新唐人電視臺</p>
           </div>
-          <h2>元郎白衫無差別攻擊</h2>
-          <p class="color-contrast-medium">元郎西鐵站聚集百多名白衣人向途人進行「無差別」襲擊，市民頭破血流。鄰近所有警署拉閘，報警時更無人接聽。事發39分鐘後才抵達現場，並有片段證官警黑勾結。香港出現了最黑暗的：無管治時段。</p>
+          <h2>元朗白衫無差別攻擊</h2>
+          <p class="color-contrast-medium">元朗西鐵站聚集百多名白衣人向途人進行「無差別」襲擊，市民頭破血流。鄰近所有警署拉閘，報警時更無人接聽。事發39分鐘後才抵達現場，並有片段證官警黑勾結。香港出現了最黑暗的：無管治時段。</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">2019年7月21日</span>
             <a onclick="openMore(this);" href="javascript:void(0);" class="btn btn--subtle">⇲</a>
