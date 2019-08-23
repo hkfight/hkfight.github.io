@@ -1,0 +1,157 @@
+﻿<html lang="en" class=""><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<style type="text/css" class="cp-pen-styles">h1, h2, h3 {
+  font-weight: 300;
+}
+
+.container {
+  padding: 1em;
+}
+
+.timeline {
+  position: relative;
+  overflow: visible;
+}
+.timeline:before {
+  content: '';
+  position: absolute;
+  height: 100%;
+  width: 4px;
+  background: #dddddd;
+  left: 0;
+}
+.timeline h2 {
+  background: #dddddd;
+  max-width: 6em;
+  margin: 0 auto 1em;
+  padding: 0.5em;
+  text-align: center;
+  position: relative;
+  clear: both;
+}
+.timeline ul {
+  list-style: none;
+  padding: 0 0 0 24px;
+  z-index: 1;
+}
+.timeline li {
+  background: #dddddd;
+  padding: 1em;
+  margin-bottom: 1em;
+  position: relative;
+}
+.timeline li:before {
+  content: '';
+  width: 0;
+  height: 0;
+  border-top: 1em solid #dddddd;
+  border-left: 1em solid transparent;
+  position: absolute;
+  left: -16px;
+  top: 0;
+}
+.timeline li:after {
+    border-radius: 50%;
+    background-color: #dddddd;
+    width: 14px;
+    height: 14px;
+    content: '';
+    position: absolute;
+    left: -29px;
+    right: auto;
+    top: -5px;
+}
+.timeline h3 {
+  margin-top: 0;
+}
+.timeline time {
+  font-style: italic;
+}
+
+@media screen and (min-width: 40em) {
+  .container {
+    max-width: 1000px;
+    margin: 0 auto;
+  }
+
+  .timeline:before {
+    left: calc(50% - 2px);
+  }
+  .timeline ul {
+    padding-left: 0;
+    max-width: 700px;
+    margin: 0 auto;
+  }
+  .timeline li {
+    width: calc(50% - 22px);
+  }
+  .timeline li:nth-child(even) {
+    float: right;
+    margin-top: 2em;
+  }
+  .timeline li:nth-child(odd) {
+    float: left;
+  }
+  .timeline li:nth-child(odd):before {
+    border-top: 1em solid #dddddd;
+    border-right: 1em solid transparent;
+    right: -1em;
+    left: auto;
+  }
+  .timeline li:nth-child(odd):after {
+  	left: auto;
+    right: -29px;
+  }
+  .timeline li:nth-of-type(2n+1) {
+    clear: both;
+  }
+  .timeline li:after {
+    left: -29px;
+  }
+}
+
+body * { box-sizing: border-box; }
+</style></head><body>
+<div class="container">
+<div class="timeline">
+<h2>Jun 2019</h2>
+<ul>
+<li>
+<time>6 Jun</time>
+<h3>法律界黑衣靜默遊行</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices.</p>
+</li>
+<li>
+<time>9 Jun</time>
+<h3>103萬人反送中大遊行</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
+<li>
+<time>12 Jun</time>
+<h3>市民發動「三罷」</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
+</li>
+<li>
+<time>14 Jun</time>
+<h3>失去義士</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
+<h3>香港媽媽反送中集氣大會</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
+</li>
+</ul>
+<h2>Jul 2019</h2>
+<ul>
+<li>
+<time>1 Jul</time>
+<h3>Lorem ipsum</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
+</li>
+<li>
+<time>2 Jul</time>
+<h3>Lorem ipsum</h3>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
+</li>
+</ul>
+<div style="clear: both;"></div>
+</div>
+</div>
+</body></html>
