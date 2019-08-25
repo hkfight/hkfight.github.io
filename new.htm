@@ -1,12 +1,29 @@
-﻿<html lang="en" class=""><head><meta charset="UTF-8">
+﻿<html lang="en" class="">
+<head>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
+<!--link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"-->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0-12/css/all.css" rel="stylesheet">
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
 <script>
 function autoHeightAnimate(element, time){
   	var curHeight = element.height(), // Get Default Height
         autoHeight = element.css('height', 'auto').height()+25; // Get Auto Height
     	  element.height(curHeight); // Reset to Default Height
     	  element.stop().animate({ height: autoHeight }, time); // Animate to Auto Height
+}
+
+function lightbox(content) {
+	if ((content.indexOf(".jpg")!=-1) || (content.indexOf(".jpeg")!=-1) || (content.indexOf(".png"))!=-1) {
+		$('.overlay > div:nth-child(2)').html('');
+		$('.overlay > div:nth-child(2)').css({'background-image':'url('+content+')','background-position':'center center','background-repeat':'no-repeat','background-size':'contain'});
+	} else {
+		$('.overlay > div:nth-child(2)').css('background','none');
+		$('.overlay > div:nth-child(2)').html('<div class="video-container">'+content+'</div>');
+	}
+	$('.overlay').fadeIn(1000);
 }
 </script>
 <style type="text/css" class="cp-pen-styles">h1, h2, h3 {
@@ -20,6 +37,9 @@ function autoHeightAnimate(element, time){
 .timeline {
   position: relative;
   overflow: visible;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
 }
 .timeline:before {
   content: '';
@@ -146,11 +166,31 @@ body * { box-sizing: border-box; }
 .stat { position: absolute; top: 10px; right: 10px; list-style: none; padding: 0; font-family: "Lucida Console", Monaco, monospace; font-size: 12px; line-height: 13px; color: #000000; text-align: center; }
 .stat li { float: left; padding-left: 10px; }
 
-.timeline li div { position: relative; overflow: hidden; margin-bottom: 1em; height: 0; }
-.openanchor { position: absolute; bottom: 0; width: 100%; height: 40px; padding-top: 25px; background: linear-gradient(transparent 30%, #ffffff 70%); font-size: 18px; line-height: 18px; color: #9b9b9b; text-align: center; cursor: pointer; display: none; }
+.timeline li > div { position: relative; overflow: hidden; margin-bottom: 1em; height: 0; }
+.openanchor { position: absolute; bottom: 0; width: 100%; height: 40px; padding-top: 28px; background: linear-gradient(transparent 30%, #ffffff 70%); font-size: 14px; line-height: 14px; color: #9b9b9b; text-align: center; display: none; pointer-events: none; }
+.openanchor i { display: block; cursor: pointer; pointer-events: all; }
 
+.fa-image { color: #4a4a4a; padding-top: 5px; }
+.fa-video { color: #4a4a4a; padding-top: 5px; }
+
+.overlay { position: fixed; top: 0; left: 0; width: 100%; height: 100%; padding: 20px; display: none; z-index: 1000; }
+.overlay > div:nth-child(2) { position: relative; width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; z-index: 1; }
+.overlay > div:last-child { position: absolute; top: 0; left: 0; width: 100%; height: 100%;background-color: #000000; opacity: 0.5; z-index: 0; }
+.popupclose { position: absolute; top: 20px; right: 20px; width: 38px; height: 38px; border-radius: 50%; background-color: #4a4a4a; cursor: pointer; z-index: 2; }
+.popupclose:before, .popupclose:after { position: absolute; top: calc(50% - 1px); left: calc(50% - 1px); content: ' '; height: 65%; width: 2px; background-color: #ffffff; }
+.popupclose:before { transform: rotate(45deg) translateY(-50%); -webkit-transform: rotate(45deg) translateY(-50%); -moz-transform: rotate(45deg) translateY(-50%); -ms-transform: rotate(45deg) translateY(-50%); -o-transform: rotate(45deg) translateY(-50%); transform-origin: left top; -webkit-transform-origin: left top; -moz-transform-origin: left top; -ms-transform-origin: left top; -o-transform-origin: left top; }
+.popupclose:after { transform: rotate(-45deg) translateY(-50%); -webkit-transform: rotate(-45deg) translateY(-50%); -moz-transform: rotate(-45deg) translateY(-50%); -ms-transform: rotate(-45deg) translateY(-50%); -o-transform: rotate(-45deg) translateY(-50%); transform-origin: right top; -webkit-transform-origin: right top; -moz-transform-origin: right top; -ms-transform-origin: right top; -o-transform-origin: right top; }
+
+.video-container { position: relative; padding-bottom: 56.25%; height: 0; flex-grow: 1; overflow: hidden; }
+.video-container iframe, .video-container object, .video-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.tooltip { width: 112px; height: 63px; font-size: 12px; line-height: 18px; color: #000000; text-align: center; border: 0 !important; background:url('images/tooltip.png') top center no-repeat; background-size: 100%; -webkit-box-shadow: none; -moz-box-shadow: none; box-shadow: none; }
 </style></head><body>
 <div class="container">
+<div class="overlay">
+	<div class="popupclose"></div>
+	<div></div>
+	<div></div>
+</div>
 <div class="timeline">
 <h2>Jun 2019</h2>
 <ul>
@@ -163,7 +203,7 @@ body * { box-sizing: border-box; }
 </ul>
 <time>6 Jun</time>
 <h3>法律界黑衣靜默遊行</h3>
-<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. consectetur adipiscing elit.</div>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. consectetur adipiscing elit.</div>
 </li>
 <li>
 <ul class="stat">
@@ -174,7 +214,12 @@ body * { box-sizing: border-box; }
 </ul>
 <time>9 Jun</time>
 <h3>103萬人反送中大遊行</h3>
-<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+<div>
+	<span class="openanchor"><i class="fas fa-angle-double-down"></i></span>
+	<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+	<div><i class="far fa-image fa-fw"></i> <a href="images/69march.jpg">link</a></div>
+	<div><i class="fas fa-video fa-fw"></i> <a href='<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fstandnewshk%2Fvideos%2F878053389195822%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>'>link</a></div>
+</div>
 <li>
 <ul class="stat">
 	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
@@ -184,7 +229,7 @@ body * { box-sizing: border-box; }
 </ul>
 <time>12 Jun</time>
 <h3>市民發動「三罷」</h3>
-<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
 </li>
 <li>
 <ul class="stat">
@@ -195,9 +240,9 @@ body * { box-sizing: border-box; }
 </ul>
 <time>14 Jun</time>
 <h3>失去義士</h3>
-<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
 <h3>香港媽媽反送中集氣大會</h3>
-<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
 </li>
 </ul>
 <h2>Jul 2019</h2>
@@ -211,36 +256,52 @@ body * { box-sizing: border-box; }
 </ul>
 <time>1 Jul</time>
 <h3>Lorem ipsum</h3>
-<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
 </li>
 <li>
 <time>2 Jul</time>
 <h3>Lorem ipsum</h3>
-<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
 </li>
 </ul>
 <div style="clear: both;"></div>
 </div>
 </div>
 <script>
+$( document ).tooltip({
+	tooltipClass: "tooltip",
+	position: { my: "center+3 top", at: "center top-60" }
+});
 $(document).ready(function() {
 	$('.timeline > ul > li > div').css('height', 'auto');
+
 	$('.timeline > ul > li > div').each(function() {
 		if ($(this).height()>50) {
 			$(this).css('height', '50px');
 			$(this).find('.openanchor').show();
 		}
 	});
-	$('.openanchor').click(function(){
-		console.log($(this).parent().outerHeight());
-	    if($(this).parent().outerHeight() === 50){
-	      autoHeightAnimate($(this).parent(), 'auto');
-	      $(this).html('&#129089');
+
+	$('.openanchor i').click(function(){
+	    if($(this).parent().parent().outerHeight() === 50){
+	      autoHeightAnimate($(this).parent().parent(), 'auto');
+	      $(this).removeClass('fa-angle-double-down');
+	      $(this).addClass('fa-angle-double-up');
 	    } else {
-	      $(this).parent().stop().animate({ height: '50px' }, 500);
-	      $(this).html('&#129091');
+	      $(this).parent().parent().stop().animate({ height: '50px' }, 500);
+	      $(this).removeClass('fa-angle-double-up');
+	      $(this).addClass('fa-angle-double-down');
 	    }
 	});
+
+	$('.fa-image, .fa-video').siblings('a').click(function() {
+		lightbox($(this).attr('href'));
+		return false;
+	})
+
+	$('.popupclose, .overlay > div').click(function() {
+		$('.overlay').fadeOut(1000);
+	})
 });
 </script>
 </body></html>
