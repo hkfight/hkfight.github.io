@@ -1,5 +1,14 @@
 ﻿<html lang="en" class=""><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script>
+function autoHeightAnimate(element, time){
+  	var curHeight = element.height(), // Get Default Height
+        autoHeight = element.css('height', 'auto').height(); // Get Auto Height
+    	  element.height(curHeight); // Reset to Default Height
+    	  element.stop().animate({ height: autoHeight }, time); // Animate to Auto Height
+}
+</script>
 <style type="text/css" class="cp-pen-styles">h1, h2, h3 {
   font-weight: bold;
 }
@@ -32,12 +41,12 @@
   position: relative;
   clear: both;
 }
-.timeline ul {
+.timeline > ul {
   list-style: none;
   padding: 0 0 0 50px;
   z-index: 1;
 }
-.timeline li {
+.timeline > ul > li {
 border: 1px solid #f8cd60;
 border-radius: 10px;
 
@@ -46,7 +55,7 @@ border-radius: 10px;
   margin-bottom: 1em;
   position: relative;
 }
-.timeline li:before {
+.timeline > ul > li:before {
   content: '';
   width: 15px;
   height: 15px;
@@ -58,7 +67,7 @@ border-radius: 10px;
   top: 20px;
   transform: rotate(-45deg);
 }
-.timeline li:after {
+.timeline > ul > li:after {
 background: url('images/icon_strike.png') center center no-repeat;
 background-size: 100%;
 //    border-radius: 50%;
@@ -96,22 +105,22 @@ background-size: 100%;
   .timeline:before {
     left: calc(50% - 2px);
   }
-  .timeline ul {
+  .timeline > ul {
     padding-left: 0;
 //    max-width: 700px;
     margin: 0 auto;
   }
-  .timeline li {
+  .timeline > ul > li {
     width: calc(50% - 47px);
   }
-  .timeline li:nth-child(even) {
+  .timeline > ul > li:nth-child(even) {
     float: right;
     margin-top: 80px;
   }
-  .timeline li:nth-child(odd) {
+  .timeline > ul > li:nth-child(odd) {
     float: left;
   }
-  .timeline li:nth-child(odd):before {
+  .timeline > ul > li:nth-child(odd):before {
     border-top: 0;
     border-left: 0;
     border-bottom: 1px solid #f8cd60;
@@ -119,14 +128,14 @@ background-size: 100%;
     right: -9px;
     left: auto;
   }
-  .timeline li:nth-child(odd):after {
+  .timeline > ul > li:nth-child(odd):after {
   	left: auto;
     right: -77px;
   }
-  .timeline li:nth-of-type(2n+1) {
+  .timeline > ul > li:nth-of-type(2n+1) {
     clear: both;
   }
-  .timeline li:after {
+  .timeline > ul > li:after {
     left: -77px;
   }
 }
@@ -134,26 +143,57 @@ background-size: 100%;
 body { background-color: #fbf6e8; }
 body * { box-sizing: border-box; }
 body p { margin-top: 0; margin-bottom: 1em; }
+
+.stat { position: absolute; top: 10px; right: 10px; list-style: none; padding: 0; font-size: 12px; line-height: 14px; color: #000000; text-align: center; }
+.stat li { float: left; padding-left: 10px; }
+
+li p { position: relative; overflow: hidden; }
+.openanchor { position: absolute; bottom: 0; width: 100%; height: 40px; background: linear-gradient(transparent, #ffffff); cursor: pointer; }
+
 </style></head><body>
 <div class="container">
 <div class="timeline">
 <h2>Jun 2019</h2>
 <ul>
 <li>
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
 <time>6 Jun</time>
 <h3>法律界黑衣靜默遊行</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices.</p>
 </li>
 <li>
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
 <time>9 Jun</time>
 <h3>103萬人反送中大遊行</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
+<p><span class="openanchor"></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
 <li>
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
 <time>12 Jun</time>
 <h3>市民發動「三罷」</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
 </li>
 <li>
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
 <time>14 Jun</time>
 <h3>失去義士</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
@@ -164,6 +204,12 @@ body p { margin-top: 0; margin-bottom: 1em; }
 <h2>Jul 2019</h2>
 <ul>
 <li>
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
 <time>1 Jul</time>
 <h3>Lorem ipsum</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
@@ -177,4 +223,16 @@ body p { margin-top: 0; margin-bottom: 1em; }
 <div style="clear: both;"></div>
 </div>
 </div>
+<script>
+$(document).ready(function() {
+	$('.openanchor').click(function(){
+		console.log($(this).parent().height());
+	    if($(this).parent().height() === 30){
+	      autoHeightAnimate($(this).parent(), 'auto');
+	    } else {
+	      $(this).parent().stop().animate({ height: '30px' }, 500);
+	    }
+	});
+});
+</script>
 </body></html>
