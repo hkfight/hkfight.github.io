@@ -4,7 +4,7 @@
 <script>
 function autoHeightAnimate(element, time){
   	var curHeight = element.height(), // Get Default Height
-        autoHeight = element.css('height', 'auto').height(); // Get Auto Height
+        autoHeight = element.css('height', 'auto').height()+25; // Get Auto Height
     	  element.height(curHeight); // Reset to Default Height
     	  element.stop().animate({ height: autoHeight }, time); // Animate to Auto Height
 }
@@ -142,13 +142,12 @@ background-size: 100%;
 
 body { background-color: #fbf6e8; }
 body * { box-sizing: border-box; }
-body p { margin-top: 0; margin-bottom: 1em; }
 
-.stat { position: absolute; top: 10px; right: 10px; list-style: none; padding: 0; font-size: 12px; line-height: 14px; color: #000000; text-align: center; }
+.stat { position: absolute; top: 10px; right: 10px; list-style: none; padding: 0; font-family: "Lucida Console", Monaco, monospace; font-size: 12px; line-height: 13px; color: #000000; text-align: center; }
 .stat li { float: left; padding-left: 10px; }
 
-li p { position: relative; overflow: hidden; }
-.openanchor { position: absolute; bottom: 0; width: 100%; height: 40px; background: linear-gradient(transparent, #ffffff); cursor: pointer; }
+.timeline li div { position: relative; overflow: hidden; margin-bottom: 1em; height: 0; }
+.openanchor { position: absolute; bottom: 0; width: 100%; height: 40px; padding-top: 25px; background: linear-gradient(transparent 30%, #ffffff 70%); font-size: 18px; line-height: 18px; color: #9b9b9b; text-align: center; cursor: pointer; display: none; }
 
 </style></head><body>
 <div class="container">
@@ -164,7 +163,7 @@ li p { position: relative; overflow: hidden; }
 </ul>
 <time>6 Jun</time>
 <h3>法律界黑衣靜默遊行</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices.</p>
+<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. consectetur adipiscing elit.</div>
 </li>
 <li>
 <ul class="stat">
@@ -175,7 +174,7 @@ li p { position: relative; overflow: hidden; }
 </ul>
 <time>9 Jun</time>
 <h3>103萬人反送中大遊行</h3>
-<p><span class="openanchor"></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
+<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
 <li>
 <ul class="stat">
 	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
@@ -185,7 +184,7 @@ li p { position: relative; overflow: hidden; }
 </ul>
 <time>12 Jun</time>
 <h3>市民發動「三罷」</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
+<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
 </li>
 <li>
 <ul class="stat">
@@ -196,9 +195,9 @@ li p { position: relative; overflow: hidden; }
 </ul>
 <time>14 Jun</time>
 <h3>失去義士</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
+<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
 <h3>香港媽媽反送中集氣大會</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</p>
+<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
 </li>
 </ul>
 <h2>Jul 2019</h2>
@@ -212,12 +211,12 @@ li p { position: relative; overflow: hidden; }
 </ul>
 <time>1 Jul</time>
 <h3>Lorem ipsum</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
+<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
 </li>
 <li>
 <time>2 Jul</time>
 <h3>Lorem ipsum</h3>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</p>
+<div><span class="openanchor">&#129091;</span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
 </li>
 </ul>
 <div style="clear: both;"></div>
@@ -225,12 +224,21 @@ li p { position: relative; overflow: hidden; }
 </div>
 <script>
 $(document).ready(function() {
+	$('.timeline > ul > li > div').css('height', 'auto');
+	$('.timeline > ul > li > div').each(function() {
+		if ($(this).height()>50) {
+			$(this).css('height', '50px');
+			$(this).find('.openanchor').show();
+		}
+	});
 	$('.openanchor').click(function(){
-		console.log($(this).parent().height());
-	    if($(this).parent().height() === 30){
+		console.log($(this).parent().outerHeight());
+	    if($(this).parent().outerHeight() === 50){
 	      autoHeightAnimate($(this).parent(), 'auto');
+	      $(this).html('&#129089');
 	    } else {
-	      $(this).parent().stop().animate({ height: '30px' }, 500);
+	      $(this).parent().stop().animate({ height: '50px' }, 500);
+	      $(this).html('&#129091');
 	    }
 	});
 });
