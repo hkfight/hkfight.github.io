@@ -26,14 +26,12 @@ function lightbox(content) {
 	$('.overlay').fadeIn(1000);
 }
 </script>
-<style type="text/css" class="cp-pen-styles">h1, h2, h3 {
-  font-weight: bold;
-}
+<style type="text/css" class="cp-pen-styles">
+h1, h2, h3 { font-weight: bold; }
 
 .container {
   padding: 1em 1em 1em calc(1em + 20px);
 }
-
 .timeline {
   position: relative;
   overflow: visible;
@@ -69,7 +67,6 @@ function lightbox(content) {
 .timeline > ul > li {
 border: 1px solid #f8cd60;
 border-radius: 10px;
-
   background: #ffffff;
   padding: 1em;
   margin-bottom: 1em;
@@ -114,14 +111,12 @@ background-size: 100%;
   color: #4a4a4a;
   padding-bottom: 0.5em;
 }
-
 @media screen and (min-width: 40em) {
   .container {
 //    max-width: 1000px;
 		padding: 1em;
     margin: 0 auto;
   }
-
   .timeline:before {
     left: calc(50% - 2px);
   }
@@ -133,28 +128,50 @@ background-size: 100%;
   .timeline > ul > li {
     width: calc(50% - 47px);
   }
-  .timeline > ul > li:nth-child(even) {
+//  .timeline > ul > li:nth-child(even) {
+//    float: right;
+//    margin-top: 80px;
+//  }
+  .timeline > ul > li {
     float: right;
     margin-top: 80px;
+    clear: unset;
   }
-  .timeline > ul > li:nth-child(odd) {
-    float: left;
+//  .timeline > ul > li:nth-child(odd) {
+//    float: left;
+//  }
+  .odd {
+    float: left !important;
+    margin-top: 0 !important;
+    clear: both !important;
   }
-  .timeline > ul > li:nth-child(odd):before {
-    border-top: 0;
-    border-left: 0;
+//  .timeline > ul > li:nth-child(odd):before {
+//    border-top: 0;
+//    border-left: 0;
+//    border-bottom: 1px solid #f8cd60;
+//    border-right: 1px solid #f8cd60;
+//    right: -9px;
+//    left: auto;
+//  }
+  .odd:before {
+    border-top: 0 !important;
+    border-left: 0 !important;
     border-bottom: 1px solid #f8cd60;
     border-right: 1px solid #f8cd60;
-    right: -9px;
-    left: auto;
+    right: -9px !important;
+    left: auto !important;
   }
-  .timeline > ul > li:nth-child(odd):after {
-  	left: auto;
-    right: -77px;
+//  .timeline > ul > li:nth-child(odd):after {
+//  	left: auto;
+//    right: -77px;
+//  }
+  .odd:after {
+  	left: auto !important;
+    right: -77px !important;
   }
-  .timeline > ul > li:nth-of-type(2n+1) {
-    clear: both;
-  }
+//  .timeline > ul > li:nth-of-type(2n+1) {
+//    clear: both;
+//  }
   .timeline > ul > li:after {
     left: -77px;
   }
@@ -162,6 +179,8 @@ background-size: 100%;
 
 body { background-color: #fbf6e8; }
 body * { box-sizing: border-box; }
+
+.noshow { display: none; }
 
 .stat { position: absolute; top: 10px; right: 10px; list-style: none; padding: 0; font-family: "Lucida Console", Monaco, monospace; font-size: 12px; line-height: 13px; color: #000000; text-align: center; }
 .stat li { float: left; padding-left: 10px; }
@@ -191,10 +210,11 @@ body * { box-sizing: border-box; }
 	<div></div>
 	<div></div>
 </div>
+<div><input id="search" name="search" type="text" /></div>
 <div class="timeline">
 <h2>Jun 2019</h2>
 <ul>
-<li>
+<li class="odd">
 <ul class="stat">
 	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
 	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
@@ -205,7 +225,7 @@ body * { box-sizing: border-box; }
 <h3>法律界黑衣靜默遊行</h3>
 <div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. consectetur adipiscing elit.</div>
 </li>
-<li>
+<li class="">
 <ul class="stat">
 	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
 	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
@@ -220,7 +240,7 @@ body * { box-sizing: border-box; }
 	<div><i class="far fa-image fa-fw"></i> <a href="images/69march.jpg">link</a></div>
 	<div><i class="fas fa-video fa-fw"></i> <a href='<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fstandnewshk%2Fvideos%2F878053389195822%2F&width=500&show_text=false&height=281" width="500" height="281" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>'>link</a></div>
 </div>
-<li>
+<li class="odd">
 <ul class="stat">
 	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
 	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
@@ -231,7 +251,46 @@ body * { box-sizing: border-box; }
 <h3>市民發動「三罷」</h3>
 <div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
 </li>
-<li>
+<li class="">
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
+<time>14 Jun</time>
+<h3>失去義士</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
+<h3>香港媽媽反送中集氣大會</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+</li>
+<li class="odd">
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
+<time>14 Jun</time>
+<h3>失去義士</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
+<h3>香港媽媽反送中集氣大會</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+</li>
+<li class="">
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
+<time>14 Jun</time>
+<h3>失去義士</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
+<h3>香港媽媽反送中集氣大會</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+</li>
+<li class="odd">
 <ul class="stat">
 	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
 	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
@@ -247,7 +306,7 @@ body * { box-sizing: border-box; }
 </ul>
 <h2>Jul 2019</h2>
 <ul>
-<li>
+<li class="odd">
 <ul class="stat">
 	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
 	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
@@ -258,7 +317,20 @@ body * { box-sizing: border-box; }
 <h3>Lorem ipsum</h3>
 <div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
 </li>
-<li>
+<li class="">
+<ul class="stat">
+	<li><img src="images/icon_casualties.png" width="24" alt="傷亡人數" title="傷亡人數" /><br/>000</li>
+	<li><img src="images/icon_arrested.png" width="24" alt="被捕人數" title="被捕人數" /><br/>000</li>
+	<li><img src="images/icon_bullets.png" width="24" alt="發射子彈數目" title="發射子彈數目" /><br/>000</li>
+	<li><img src="images/icon_teargas.png" width="24" alt="發射催淚彈數目" title="發射催淚彈數目" /><br/>000</li>
+</ul>
+<time>14 Jun</time>
+<h3>失去義士</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
+<h3>香港媽媽反送中集氣大會</h3>
+<div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada. Curabitur sodales est sit amet fringilla ultrices. Fusce lacinia efficitur ipsum. Pellentesque id lectus tempor, euismod ligula id, malesuada eros.</div>
+</li>
+<li class="odd">
 <time>2 Jul</time>
 <h3>Lorem ipsum</h3>
 <div><span class="openanchor"><i class="fas fa-angle-double-down"></i></span>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse mi augue, condimentum scelerisque nisi et, lacinia convallis elit. Sed facilisis erat ut ultricies malesuada.</div>
@@ -302,6 +374,23 @@ $(document).ready(function() {
 	$('.popupclose, .overlay > div').click(function() {
 		$('.overlay').fadeOut(1000);
 	})
+
+	$("#search").on("keyup", function() {
+		var value = $(this).val().toLowerCase();
+		$(".timeline > ul > li").filter(function() {
+			$(this).addClass("noshow");
+			$(this).children("h3").filter(function() {
+				if ($(this).text().toLowerCase().indexOf(value) != -1) {
+					$(this).parent('li').removeClass("noshow");
+				}
+			});
+    });
+		$(".timeline > ul").each(function(i) {
+			$(this).children("li:not(.noshow):odd").removeClass('odd');
+			$(this).children("li:not(.noshow):even").addClass('odd');
+		});
+  });
+
 });
 </script>
 </body></html>
